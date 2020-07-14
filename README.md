@@ -8,7 +8,7 @@ pytorch+pytorch
 
 #### 运行
 中文-英文数据集运行，以英文翻译到中文为例（按默认参数，具体设置详见代码）：
-'''
+''' text
 创建vocab：python vocab.py --en_cn --source_language="en"
 训练模型：python test.py --train --en_cn --source_language="en"
 进行翻译：python test.py --translate --en_cn
