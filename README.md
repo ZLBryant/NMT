@@ -1,6 +1,6 @@
 # NMT
 
-pytorch+pytorch
+python+pytorch
 基于LSTM实现简单的NMT
 
 #### Dataset
