@@ -1,0 +1,1817 @@
+translate: 他 說 比 她 结婚 。     target: 他 聰明 到 不會 娶 她 。
+translate: 他 <unk> 成功 ， 但 他 沒 有 道理 。     target: 他本 希望 可以 成功 ， 但是 他 没有 。
+translate: 这 是 我 见 过 什么 。     target: 这 是 我 看过 的 最 差劲 的 电影 了 。
+translate: 她 在 浴缸 上 了 。     target: 她 在 浴室 。
+translate: 人类 是 唯一 的 學生 的 动物 。     target: 人 是 唯一 会 使用 火 的 动物 。
+translate: 她 的 <unk> 人 都 被 <unk> 了 。     target: 她 的 每首歌 都 长期 备受 欢迎 。
+translate: 他 说 它 會 下雨 。     target: 他 說 很 可能 會 下雨 。
+translate: 我 不 看到 汤姆 ， 我 愛 <unk> 。     target: 我 不 知道 我 是不是 伤害 了 汤姆 的 感情 。
+translate: 你 <unk> 了 所有 的 工作 嗎 ？     target: 你 自己 选择 了 这份 工作 ， 是 吗 ？
+translate: 没有 人 不要 讀書 。     target: 沒 有人 會 因為 太 老 而 不能 學習 。
+translate: 他 <unk> <unk> 後 ， ， <unk> 。 。     target: 他 一面 開車 一面 聽 收音 機 的 音樂 。
+translate: 我 看 著 你 的 眼睛 。     target: 我親 眼看 見 了 。
+translate: 我 应该 做 什麼 ？     target: 我该 带些 什么 ？
+translate: 他 不是 傻子 。     target: 他 没 疯 。
+translate: 她 昨天 去 了 那裡 。     target: 她 昨天 去 那裡 。
+translate: <unk> 的 明天 是 什么 ？     target: 明天 的 天气预报 怎么 说 ？
+translate: 她 覺得 很 好看 。     target: 她 感到 闷闷不乐 的 。
+translate: 他 跑 <unk> 。 。     target: 他 爬 上 了 樓梯 。
+translate: 我 告诉 汤姆 我 真是 好 。     target: 我 对 汤姆 说 我 很 好 。
+translate: 你 月 在 美國 嗎 ？     target: 你 上 個 月 在 美國 嗎 ?
+translate: 讓 我們 把 我们 的 <unk> 。     target: 讓 我們 校對 一下 錶 吧 。
+translate: 我 你 你 有 多少 錢 ？     target: 我 欠 你 多少 錢 ？
+translate: 我 在 吃 早餐 可以 <unk> 早餐 。     target: 我 在 吃 早餐 前有 運動 的 習慣 。
+translate: 我們 在 派 對 上 玩 得 很 開心 。     target: 我們 在 派 對 上 玩 得 很 開心 。
+translate: 我 剛剛 做 了 一切 。     target: 我 只是 听到 了 一些 消息 。
+translate: 你 在 你 的 叔叔 付 <unk> ？     target: 你 在 哪儿 修 的 照相机 ？
+translate: 我 是从 <unk> 。     target: 我來 自四國 。
+translate: 你 下樓 。     target: 你 触犯 了 规则 。
+translate: 他 是 我 的 朋友 。     target: 他 是 我 新交 的 朋友 。
+translate: 不要 把 这 本书 ， 我 <unk> 。     target: 这本 杂志 不要 扔 。 我 还 没 看 呢 。
+translate: 我 想 在 等 工作 。     target: 我 想 在 餐廳 工作 。
+translate: <unk> 作家 是 傻瓜 。     target: 這棟 建築物 有七層 樓 高 。
+translate: 她 住 在 紐約 。     target: 她 住 在 纽约 。
+translate: 没有 错误 。     target: 不要 害羞 。
+translate: 这 是 我 所 知道 的 最好 的 最好 。     target: 这 是 我 所 知道 的 最好 的 餐厅 。
+translate: 妈妈 给 我们 唱 了 三明治 。     target: 媽媽 為 我們 做 了 乳酪 三明治 當 午餐 。
+translate: 我 是 在 <unk> <unk> 。     target: 我 是 這裡 的 外地人 。
+translate: 最近 的 車站 住 在 哪里 ？     target: 最近 的 火车站 在 哪里 ？
+translate: 你 呢 ？     target: 你們 好 嗎 ？
+translate: 出去 午餐 吗 ？     target: 出去 吃 午飯 怎樣 ？
+translate: 我 盯 了 我 <unk> 。     target: 我 正在 把 价格 涨 一倍 。
+translate: 她 讓 我 等 了 半小时 。     target: 她 让 我 等 了 30 分钟 。
+translate: 她 完成 了 這本書 了 嗎 ？     target: 她 讀 完 這本書 了 嗎 ？
+translate: 我 為 了 她 。     target: 我 叫 她 起来 。
+translate: 我 还 饿 了 。     target: 我 还是 为 那 生气 。
+translate: 汤姆 <unk> <unk> 。     target: 汤姆 拿 起 了 刀 。
+translate: 他 一定 很 <unk> 。     target: 他 应该 40 岁 左右 吧 。
+translate: 我们 想 要 這個 問題 。     target: 我们 像 澄清 这个 问题
+translate: 英語 的 <unk> 有 外語 語言 。     target: 許多亞洲 人以 英語 作為 共用 的 語言 。
+translate: <unk> 经常 <unk> ,     她 也 是 人 去 。     target: 很多 時候 她 要 親自去 。
+translate: <unk> <unk> 成名 。     target: 他 再也 忍不住 气 了 。
+translate: 我 想要 问 他 。     target: 想 让 他 读 这个 。
+translate: 汤姆 知道 怎麼 做 。     target: 汤姆 知道 怎么 做 那事 。
+translate: 我 想 去 哪裡 你 去 去 。     target: 我 想 去 你 要 去 的 地方 。
+translate: 穿 是 你 的 房間 。     target: 清掃 你 的 房間 。
+translate: 他 长大 了 一名 師 。     target: 他長 大後成 為 了 一名 工程 師 。
+translate: 她 從 加拿大 說 自 看 我 。     target: 她 從 加拿大 來 看 我 。
+translate: 我 遭到 雷擊 。     target: 我 被 雷劈 了 。
+translate: 請 尽快 开车 。     target: 請 開車 開慢 一點 。
+translate: 让 我们 <unk> 。     target: 我們 別 吵 了 。
+translate: 讓 我 打电话 。     target: 讓 我 想一想 。
+translate: 请 每天 <unk> 狗 。     target: 请 每天 喂 一下 狗 。
+translate: 汤姆 的 眼睛 是 <unk> <unk> <unk> 。     target: Tom 的 眼睛 被 荧幕 吸引住 了 。
+translate: 你 在 這裡 上 嗎 ？     target: 您 在 教室 裡吃 它 嗎 ？
+translate: 他 清理 了 他 的 命 。     target: 他 清了清 喉嚨 。
+translate: <unk> <unk> <unk> <unk> <unk> 。     target: 小老虎 看起 來 像 隻 大貓 。
+translate: 這 封信 是 <unk> <unk> 。     target: 这 封信 寄错 地方 了 。
+translate: <unk> 是 什么 时候 ， 是 什么 ？     target: 出 什么 事 了 ， 宝贝 ？
+translate: 它 <unk> 你 了 。     target: 輪到 你 了 。
+translate: 那些 是 他們 的 書 。     target: 这是 他们 的 书 。
+translate: 来 。     target: 试试 吧 。
+translate: 不要 <unk> 你 的 <unk> 。     target: 不要 改變 你 的 心意 。
+translate: 我 只是 丟了 我的車 。     target: 我剛 剛切 到 手指 了 。
+translate: 我 在 <unk> 到 車站 。     target: 我下 一站 下车 。
+translate: 他 按 了 往常 <unk> 。     target: 他 像 往常 一樣 五點鐘 起床 。
+translate: 這些 孩子 都 <unk> 於 我 的 女孩 。     target: 这 三个 漂亮 的 女孩 都 是 我 的 侄女 。
+translate: 我 很 高興 。     target: 我 很 高兴 你们 成功 了 。
+translate: 他 住 在 京都 十年 了 。     target: 他 居住 在 國外 多年 。
+translate: 請給 我 一杯 水 。     target: 麻煩 再 一瓶 葡萄酒 。
+translate: 他問 了 我 一些 問題 。     target: 他問 了 我 兩個 問題 。
+translate: 我 已经 <unk> 了 我 的 房間 。     target: 我 已經 打 掃 完 我 的 房間 了 。
+translate: 不要 让 他 你 。     target: 別 讓 他 咬 你 。
+translate: 他們 取笑 了 玛丽 。     target: 他們 取笑 瑪麗 。
+translate: 我 觉得 你 要 自 澳洲 的 。     target: 我 觉得 你 是 时候 该 懂事 了 。
+translate: 我 請 他 叫 他 的 名字 。     target: 我問 了 他 叫 什麼 名字 。
+translate: 尽管 <unk> 问题 。     target: 隨時問 任何 問題 都 可以 。
+translate: 說 英語 很 有趣 。     target: 说 英语 很 有用 。
+translate: 她 不 喜欢 她 的 丈夫 。     target: 她 不 喜歡 她 的 丈夫 。
+translate: 他 <unk> 音樂 。     target: 他 抱怨 這個 噪音 。
+translate: 你 永远 不会 独自 。     target: 你们 永远 不会 一个 人 的 。
+translate: 如果 你 <unk> 了 ， ， 你 和 他 見面 。     target: 如果 你 快 一点 ， 还 能 赶上 他 。
+translate: 我 <unk> 的 时候 ， 我 的 家 。     target: 我 到 旅馆 的 时候 ， 天 已经 黑 了 。
+translate: 我 的 朋友 都 做 我 的 的 朋友 。     target: 除了 我 ， 其他人 都 被 邀请 去 跳舞 了 。
+translate: 我 的 書 在 哪裡 ？     target: 我 的 書 在 哪 ？
+translate: 她 用 一本 本书 <unk> 。     target: 她 为 一 本书 收集 材料 。
+translate: 他 的 照相机 <unk> 俱乐部 。     target: 他 參加 攝影社 。
+translate: 他給 了 他 的 <unk> 。     target: 他 脫 掉 了 大衣 。
+translate: 我 没 做 什么 都 不 做 。     target: 我 发誓 我 什么 也 没 做 。
+translate: <unk> 和 <unk> <unk> 工作 。     target: 別閒聊 了 ， 開始 工作 。
+translate: 他 從 <unk> <unk> 去 工作 。     target: 他 從 早上 九點 工作 到 下午 五點 半 。
+translate: 我 认为 你 应该 <unk> 考试 了 。     target: 我 的 意见 是 ， 你 该 再次 参加 测试 。
+translate: 我們 在 上 前 在 下 洗澡 。     target: 我们 不得不 把 游戏 搁 到 下 周日 了 。
+translate: <unk> 你 的 <unk> <unk> 。     target: 趁热 喝 你 的 汤 。
+translate: 沒 有人 。     target: 幾乎 沒有 任何 書籍 。
+translate: 我 有 一個 隻 狗 。     target: 我 有 条大狗 。
+translate: 你 吃 完 了 嗎 ？     target: 你 吃 完早 飯 了 嗎 ？
+translate: <unk> 了 。     target: 電話 正在 響 。
+translate: 我 叔叔 為 了 我 一個 <unk> 。     target: 我 叔叔 讓 我 擔任 翻譯 。
+translate: 我 不 知道 他 住 在 哪裡 。     target: 我 不 知道 他 住 在 哪裡 。
+translate: 我 是 個 <unk> 的 茶 。     target: 我 是 足球 的 忠实 粉丝 。
+translate: 书桌上 有 <unk> <unk> 。     target: 這個 池塘 裡的 水 很少 。
+translate: 你 什麼 时候 开始 学 英语 的 ？     target: 您 什么 时候 开始 学 英语 的 ？
+translate: 那個 <unk> 是 被 <unk> 被 <unk> 了 。     target: 那个 建筑师 创建 了 非常 现代 的 房屋 。
+translate: 为什么 <unk> 吗 ？     target: 有人 会 开车 吗 ？
+translate: 他 <unk> 了 那个 男人 。     target: 他 向 那位 女士 问好 。
+translate: 他 说 得 很 好 。     target: 他 真的 說 得 很 好 。
+translate: 我 不 知道 这么 做 。     target: 我 没有 特别 的 理由 去 做 。
+translate: 你 能 <unk> 我 了 嗎 ？     target: 請 你 幫 我 一個 忙 好 嗎 ？
+translate: 這場 年 被 有 很多 <unk> 的 <unk> 。     target: 太空 跑步 是 历史 上 激动人心 的 时刻 。
+translate: 我們 在 在 一起 。     target: 我们 一起 在 学校 。
+translate: 他們 讓 他們 <unk> <unk> 。     target: 他們 解除 了 婚約 。
+translate: 汤姆 是 個 老实人 。     target: 汤姆 是 个 真 男人 。
+translate: 英語 是 世界 上 最大 的 語言 <unk> 是 最大 的 。 。     target: 英語 是 一種 世界性 的 語言 ， 用 於 世界各地 。
+translate: 汤姆 昨天 看 了 電視 。     target: Tom 昨天 看 了 电视 。
+translate: 這是 <unk> 的 。     target: 这 不 实用 。
+translate: 我们 有 个 好人 。     target: 我们 有个 好极了 的 团队 。
+translate: <unk> 没有 美元 和 <unk> 工作 工作 。     target: 这个 工作 需要 不 低于 300 美金 。
+translate: 抓住 這 隻 狗 ！     target: 小心 狗 ！
+translate: 这 是 一個 句子 的 主意 。     target: 這是 一個 奇怪 的 句子 。
+translate: 你 每天 都 讀書 吗 ？     target: 你 每天 都 学习 吗 ？
+translate: <unk> 好好 的 比 蓝色 的 <unk> 。     target: 用 优质 材料 做 的 家具 卖得 很 好 。
+translate: 我 不 早起 。     target: 我 不 習慣 早起 。
+translate: 你 说 中文 嗎 ？     target: 你 會 說 中文 嗎 ？
+translate: 学校 在 欧洲 <unk> 年 。     target: 歐洲 的 學校 在 九月 開學 。
+translate: 我 的 嗜好 是 個 <unk> 。     target: 我 的 孫子 還是 個 嬰兒 。
+translate: <unk> 已经 <unk> 了 。     target: 這顆 鈕扣 脫落 了 。
+translate: 他 <unk> <unk> 了 。     target: 他 把 头发 剪短 了 。
+translate: 我会 見 到 你 <unk> 。     target: 我下 星期三 见 你 。
+translate: 他 <unk> 我 <unk> <unk> 他 的 <unk> 。     target: 他 對 待 我 就 像 他 的 奴隸 。
+translate: 她 不 住 在 那里 。     target: 她 不再 住 在 那裡 了 。
+translate: 你 可以 <unk> 他們 。     target: 你 可以 選擇 他們 之中 的 任何 一個 。
+translate: 她 沒 跟 玛丽 年轻 。     target: 她 沒 有 瑪麗年 紀大 。
+translate: 如果 你 通过 了 <unk> ,   你 就 可以 在 月 <unk> 了 。     target: 如果 你 通過 這個 考試 ， 你 下個 月 就 可以 畢業 了 。
+translate: <unk> 是 由 <unk> 的 <unk> 。     target: 海王星 是 太阳系 第八个 行星 。
+translate: 我能 把 它 放在 这儿 嗎 ？     target: 我 可以 把 它 放在 这儿 吗 ？
+translate: 谢谢 你 。     target: 耶穌 愛 你 。
+translate: 那 是 新 的 。     target: 这 正是 问题 的 关键 。
+translate: 我 父親 <unk> 了 去世 。     target: 我 的 父親 四年 前 去世 了 。
+translate: 海豚 是 一種 <unk> 。     target: 海豚 是 哺乳 動物 。
+translate: 我 不 喜欢 孩子 。     target: 我 不 喜欢 小孩 。
+translate: 我 的 声音 <unk> 了 你 的 <unk> 。     target: 我 立刻 認出 了 你 的 聲音 。
+translate: 汤姆 以前 在 這裡 工作 。     target: 汤姆 过去 在 这里 工作 。
+translate: 你 必須 去 桌子 桌子 。     target: 你 必须 把 桌子 清理 干净 。
+translate: 這個 学校 们 做 了 教師 。     target: 學校 需要 一個 新 的 老師 。
+translate: 你 為 你 做 什麼 呢 ？     target: 你 自己 一個 人能 做 嗎 ？
+translate: 我 对 <unk> 很 <unk> 。     target: 我 真怕 蜘蛛 。
+translate: 我 知道 她 是 <unk> 大 的 。     target: 我 知道 她 是 西班牙人 。
+translate: 我 认为 我 和 汤姆 一起 。     target: 我 想 我 给 汤姆 打电话 比较 好 。
+translate: 他 写 了 日元 喝 了 这 本书 。     target: 他花 了 1000 日元 買 這本書 。
+translate: 大楼 <unk> 了 <unk> 。     target: 火警 警报 响 了 。
+translate: 你 已經 吃 了 蛋糕 了 。     target: 你 已经 把 蛋糕 吃 了 。
+translate: 哪本 是 你 的 書 ？     target: 哪本 是 你 們 的 書 ？
+translate: 我 不 想到 這個 秘密 。     target: 我 没想到 它 有 那么 大 。
+translate: 我 比 你 感觉 更 多 。     target: 我 比 你 多 10 支 钢笔 。
+translate: 讓 我們 再 再 <unk> 吧 ！     target: 讓 我們 再 聚在一起 !
+translate: 爸爸 今天 <unk> 了 一場 車禍 的 <unk> 。     target: 根據 報載 ， 有 一架 飛機 昨天晚上 發生 了 意外 。
+translate: 警察 <unk> 了 他 <unk> <unk> 。     target: 警察 收集 了 很多 对 他 不利 的 证据 。
+translate: 發生 了 什么 好 嗎 ？     target: 發生 了 什麼 好事 嗎 ？
+translate: <unk> <unk> 。     target: 小洞 及 時補 ， 免遭 大洞 苦 。
+translate: 汤姆 没有 鞋 。     target: 汤姆 没 穿鞋 。
+translate: 我 不 确定 。     target: 我 不 确定 。
+translate: 我要 买 这 字典 。     target: 我 想 買 這本 字典 。
+translate: 我 <unk> 了 。     target: 我 已 經變 得 好多 了 。
+translate: 這份 工作 已經 工作 了 。     target: 這項 工作 已經 完成 了 一半 。
+translate: 汤姆 告诉 我 他 不 喜欢 <unk> <unk> <unk> 。     target: 汤姆 告诉 我 他 不 喜欢 碳酸 饮料 。
+translate: 汤姆 <unk> <unk> <unk> 。     target: 汤姆 对 结果 不满 。
+translate: 他 很快 很快 就 結婚 了 。     target: 他 在 事故 後 不久 就 去世 了 。
+translate: 請 你 打開 <unk> 好 嗎 ？     target: 請 你 開門 好 嗎 ?
+translate: 我 想要 一些 <unk> 和 <unk> 。     target: 我 所 想要 的 是 一点 平和 和 安静 。
+translate: 他 說 什麼 時候 會 到 什麼 ？     target: 他 說 他 幾點 鐘會來 ?
+translate: 這個 <unk> <unk> <unk> 了 。     target: 这饭 足够 三个 人 吃 。
+translate: 美国 的 <unk> <unk> 被 <unk> <unk> 了 。     target: 一場 毀滅性 的 地震 襲擊 了 這個 州 的 首府 。
+translate: 你 不 能 跟 你 的 父母 那樣 做 。     target: 你 不應 該 對 你 父母 那樣 頂 嘴 。
+translate: 我 需要 你 想 什麼 。     target: 我 需要 知道 你 怎么 想 。
+translate: Facebook 在 中国 <unk> 。     target: Facebook 在 中國 是 被 封鎖 的 。
+translate: 你 對 我 <unk> 。     target: 假装 你 是 我 。
+translate: 我 没 <unk> 这个 。     target: 我 做不了 這個 。
+translate: 汤姆 跟 玛丽 帮助 <unk> 帮助 <unk> 。     target: 汤姆 过来 看看 玛丽 有没有 什么 需要 帮忙 的 。
+translate: 你 看 了 我 ， 不是 嗎 ？     target: 你 對 我 說 了 謊 ,   沒有 嗎 ?
+translate: 我 總 是 認為 <unk> 名字 的 名字 。     target: 我 總 是 忘 記別 人 的 名字 。
+translate: 那 是 我 的 的 吗 ？     target: 那 是 我 的 吗 ？
+translate: “ 是 輕 的 水果 ， 也 可能 是 不 可能 的 不 可能 都 不 的 。     target: “ 好人 不 长命 ” 是 句 或 真 或 假 的 老话 。
+translate: 不要 低估 你 的 态度 。     target: 不要 低估 自己 的 实力 。
+translate: 他 宣布 <unk> <unk> 旅行 。     target: 他 旅行 期间 ， 写 了 旅游 日记 。
+translate: 誠實 對 這個 問題 是 重要 的 问题 。     target: 真正 的 科学家 不会 这样 去 思考 。
+translate: 我 想 到 它 。     target: 由 我 来 做 .
+translate: 汤姆 <unk> 了門 。     target: 汤姆 点头 同意 。
+translate: 汤姆 <unk> 了 錢 。     target: Tom 否认 偷 了 钱 。
+translate: 你 要 來 哪个 嗎 ？     target: 你 会 去 访问 其他 国家 吗 ？
+translate: 他 昨天 拜訪 了 我 了 。     target: 昨天 他 寫 信給 我 。
+translate: 他 不 知道 说 什么 时候 ， 他 会 来 。     target: 自从 他 不 知道 该 说 什么 的 时候 ， 便 一直 沉默 着 。
+translate: 她 說 你 的 母親 很 好 。     target: 她 對 你 的 母親 很 熟悉 。
+translate: 这张 路 <unk> 是 <unk> 的 。     target: 这 地毯 在 质量 上 比 那个 好得多 。
+translate: 你 想要 嗎 ？     target: 你 想要 更 多 嗎 ？
+translate: 当 <unk> 的 <unk> ， ， <unk> <unk> ， 大家 都 <unk> 了 。     target: 有 一分钟 的 沉默 ， 然后 每个 人 都 开始 尖叫 。
+translate: 她 從 <unk> <unk> 了 蘋果 。     target: 她 用 蘋果 做 了 果醬 。
+translate: 他 <unk> <unk> <unk> <unk> 。     target: 他 有 能力 教授 西班牙文 。
+translate: 我 认为 我 休息 飽 了 。     target: 我覺 得 我 有點 要 發燒 了 。
+translate: <unk> 是 ， 它 不是 <unk> 的 。     target: 嚴格來 說 ， 地球 不是 圓的 。
+translate: 这 没有 任何 意义 。     target: 无论如何 说 不通 。
+translate: 你 能 <unk> 一下 <unk> 嗎 ？     target: 你 收 私人 支票 嗎 ?
+translate: 什麼 <unk> 多少 ？ ？     target: 多少 錢 ?
+translate: 你 最好 比 我 好 。     target: 你 游泳 游得 比 我 好 。
+translate: 他 把 他 的 女朋友 卖 了 。     target: 他用 他 的 球拍 擊球 。
+translate: 他 對 <unk> <unk> 都 真的 。     target: 他 對 藝術 一點 也 不 感興趣 。
+translate: 我 是 网球 俱乐部 的 会员 。     target: 我 是 网球 俱乐部 的 会员 。
+translate: 可以 可以 可以 可以 。 。     target: 如果 你 能 就 來 吧 。
+translate: 你 覺得 英語 嗎 ？     target: 您 学 英语 吗 ？
+translate: 他 <unk> 吃 果汁 。     target: 他 喝 了 三瓶 啤酒 。
+translate: 他 讓 我 看 了 。     target: 他來 看 我 了 。
+translate: <unk> 打開 這個 瓶子 。     target: 請 把 這個 瓶子 裝滿水 。
+translate: 我 沒 有 <unk> 你 。     target: 我 已 經有 很長 的 時間 沒 有 見 到 你 了 。
+translate: 我们 没有 <unk> <unk> <unk> 。     target: 我们 周三 下午 没课 。
+translate: 你 马上 会 早點 來 。     target: 你 必须 马上 行动 。
+translate: 你 读完 那本书 了 吗 ？     target: 你 讀 完 這本書 了 嗎 ？
+translate: <unk> <unk> 的 朋友 ， 幫 我 和 <unk> 和 <unk> 。     target: 我 的 一个 女性朋友 喜欢 跟 我 一起 去 同志 酒吧 。
+translate: 媽媽 应该 吃 什麼 。     target: 媽媽 快 把 晚餐 準備 好 了 。
+translate: 每個 人 都 看到 了 他 的 故事 。     target: 每个 人 都 听腻 了 那个 故事 。
+translate: 不要 擔心 你 做 的 。     target: 不要 擔心 。 你 辦 得到 的 。
+translate: 我 <unk> 我 的 钱包 了 。     target: 我 掉 了 我 的 钱包 。
+translate: 你 <unk> 你 的 <unk> 了 吗 ？     target: 你 達成 你 的 目標 了 嗎 ？
+translate: 她 讓 我 等 了 半小时 。     target: 她 让 我 等 了 半小时 。
+translate: 滾 ！     target: 不 可能 ！
+translate: 上個 月 我 努力 工作 。     target: 我 上 個 月 很 努力 工作 。
+translate: 我 總 是 <unk> <unk> 游泳 。     target: 我 一直 想 学习 如何 游泳 。
+translate: 他 <unk> <unk> 了 。     target: 他 把門 漆成 了 白色 。
+translate: 你 做 我 的 <unk> 了 什麼 ?     target: 你 把 我 的 眼鏡 怎麼 了 ?
+translate: 我 想 在 去 散步 。     target: 我現 在 想要 散步 。
+translate: 你 通過 了 吗 ？     target: 你 试过 吗 ？
+translate: 你 认为 我 做 了 什么 ？     target: 如果 我 那么 做 你 会 怎么 想 ？
+translate: 這個 山 被 被 被 <unk> 了 。     target: 船 從橋 下 通過 。
+translate: <unk> 河里 <unk> 。 。     target: 安全 地 駕駛 。
+translate: 我 <unk> <unk> 。     target: 我 被誤 認為 是 推銷員 。
+translate: 東京 是 一種 大 城市 。     target: 东京 是 一个 很大 的 城市 。
+translate: 他 的 <unk> 總 是 反 <unk> <unk> 。     target: 他 的 店 總 是 擠 滿 了 顧客 。
+translate: <unk> 你 的 駕駛 。     target: 度假 愉快 ！
+translate: 汤姆 不 认为 那 是 真的 。     target: 汤姆 不 认为 这是 一个 巧合 。
+translate: 他 的 <unk> 是 <unk> 。     target: 他 被 指控 偷錢 。
+translate: 我給 了 他們 的 <unk> 了 些 食物 。     target: 我給 了 他們 衣服 和 一些 食物 。
+translate: 只有 一个 事故 的 <unk> 事故 。     target: 只有 一人 倖免 於 難 。
+translate: <unk> 。     target: 木头 会 漂浮 。
+translate: 这个 老 <unk> 不是 <unk> <unk> 。     target: 這些 記錄 不 對 公眾 開放 。
+translate: 我 每天 <unk> 。     target: 我 每天 洗 一次 澡 。
+translate: 汤姆 不在乎 任何 錢 。     target: 汤姆 不 关心 钱 。
+translate: 我 不 喜欢 茶 ， 我 也 不 喜欢 咖啡 吃 早餐 。     target: 我 不 喜欢 茶 ， 所以 我 早餐 大致 上 都 喝咖啡 。
+translate: 你 去 哪儿 度假 ？     target: 你 要 去 哪裡 度假 ?
+translate: 請 讓 我 去 。     target: 請 讓 我 走 。
+translate: 保持 <unk> 。     target: 冷静 点 。
+translate: 让 我 ， 你 都 会 <unk> 。     target: 你安頓 好 就 打 電話給 我 。
+translate: 車 <unk> 回家 。     target: 欢迎 来到 我们 家 。
+translate: 我 從 <unk> 沒 有 回來 了 。     target: 我 不会 再 回来 了 。
+translate: 他 一定 是 個 像 我 妹妹 姐姐 。     target: 他会 是 我 妹妹 的 好 丈夫 的 。
+translate: 那 是 我 的 大衣 。     target: 那 是 我 的 大衣 。
+translate: 我 想 去 。     target: 我 想要 去 。
+translate: 這 隻 狗 <unk> <unk> 男孩 。     target: 這 隻 狗 對 著 一個 小男孩 咆哮 。
+translate: 瑪麗 正在 醉 了 。 。     target: 玛丽 是 三 姐妹 中 的 老幺 。
+translate: 我們 輪流 開車 。     target: 我們 輪流 駕駛 。
+translate: 那 是 個 <unk> 的 人 。     target: 像 男人 一样 战斗 ！
+translate: 我 沒 有 見 他 。     target: 我 挑不出 他 的 毛病 。
+translate: 他 <unk> 的 <unk> <unk> <unk> 。     target: 他 强调 了 教育 的 重要性 。
+translate: 孩子 们 <unk> 。     target: 孩子 們 需要 大量 的 睡眠 。
+translate: <unk> 時 ， <unk> 打 了 。     target: 遇到 火灾 打 119 。
+translate: 我 同意 他 的 意見 。     target: 我 同意 他 的 觀點 。
+translate: 我們 很快 就 和 他們 <unk> 了 。     target: 我們 很快 就 追上 了 他們 。
+translate: 我们 不能 在 這裡 。     target: 我们 不能 在 这里 谈 。
+translate: 我現 在 很 饿 。     target: 我現 在 非常 餓 。
+translate: <unk> <unk> <unk> 。     target: 海绵 吸水 。
+translate: 我 喝 得 <unk> 。     target: 我要 打 几个 电话 。
+translate: 沒 有人 走 。     target: 没有 人来 了 。
+translate: 我無法 <unk> 我 的 <unk> <unk> <unk> <unk> 。     target: 我 的 手指 没有 感觉 。
+translate: 我 不想 再 去 那裡 。     target: 我 不想 再次 去 那儿 。
+translate: 住 在 日本 从 <unk> 年 <unk> 大 。     target: 各國 有 不同 的 飲食 習慣 。
+translate: <unk> 。     target: 鴕鳥 不會 飛 。
+translate: 你 看 起來 很 健康 。     target: 你 看起来 和 以前 一样 健康 。
+translate: <unk> <unk> <unk> ? ？     target: 火车 什么 时候 到 横滨 ？
+translate: 汤姆 似乎 不 喜欢 他 的 父親 。     target: 汤姆 和 他 的 父亲 长得 一点 也 不 像 。
+translate: 我 累 了 ， 但是 我 不想 睡 了 。     target: 我 很 累 ， 但 我 还是 没 办法 入睡 。
+translate: 這個 男孩 是 了 <unk> 。     target: 這個 男孩 有 一 張紅潤 的 臉 。
+translate: 我 打算 成为 美国 。     target: 我 有志 成为 一名 律师 。
+translate: 我们 不能 忘 了 火災 。     target: 我们 无法 接近 敌人 。
+translate: 我 是 她 的 故事 吗 ？     target: 她 的 故事 是 真的 吗 ？
+translate: 我 真的 很 惊讶 你 的 努力 。     target: 我 真的 很 關心 你 的 未來 。
+translate: 我 喜歡 出國 。     target: 我 喜欢 散步 。
+translate: 每個 人 都 想 知道 他們 。     target: 每个 人 都 想要 得到 无法 拥有 的 东西
+translate: 你 看 了 意外 嗎 ？     target: 你 真的 看到 了 這起 事故 嗎 ？
+translate: 她 <unk> 了 他 <unk> 。     target: 她 非常 恨 他 。
+translate: 我 每天 <unk> 一次 澡 。     target: 我 幾乎 每天 洗澡 。
+translate: 没关系 。     target: 那 不 太坏 。
+translate: 我 问 了 他 事故 事故 。     target: 我問 他關 於 這個 意外 的 事 。
+translate: 在 這裡 待 在 這裡 住 他 时间 。     target: 你 很快 就 会 习惯 住 在 这里 。
+translate: 她 一定 都 有 <unk> 做 。     target: 她 將必須 為 大家 做飯 。
+translate: 美元 有 一个 美元 和 一个 月 和 <unk> 中 成 了 一个 <unk> 。     target: 寧可當 隻 老虎 活 一天 ， 也 不願當 隻 兔子 過 一百年 。
+translate: 你 把 它 <unk> 了 什么 ？     target: 你 用 什么 打开 的 ？
+translate: 我 沒 有 <unk> 他 。     target: 我 有些 年 没见 过 他 了 。
+translate: 他 的 現金 總 都 <unk> 現金 。     target: 他 總 是 缺錢 。
+translate: <unk> 歲 的 年 又 大 ， 一個 <unk> 的 <unk> 。     target: 这个 可怜 的 年轻人 最后 成为 了 一个 了不起 的 艺术家 。
+translate: 那 是 他 生氣 的 是 生氣 。     target: 那 就是 他 生气 的 理由 。
+translate: 她 的 父亲 <unk> <unk> 。     target: 她 父亲 把 一生 都 贡献 给 科学事业 了 。
+translate: 他 昨天 在 東京 了 。     target: 他 昨天 到 了 东京 。
+translate: 你 <unk> 汤姆 的 多少 多少 ？     target: 你 欠 湯姆 多少 錢 ？
+translate: 我 不 知道 我 还 有 它 。     target: 我 不 知道 我 还有 没有 。
+translate: 孩子 们 <unk> <unk> 。     target: 這個 小孩 身體 很 燙 。
+translate: 你 脸红 了 。     target: 你 是 對 的 。
+translate: 我 不能 把 我的車 <unk> 一下 。     target: 我 没法 忍住 我 的 眼泪 。
+translate: 你 應該 去 <unk> <unk> 。     target: 你 应该 作 最坏 的 准备 。
+translate: 讓 我們 休息 河裡 吧 。     target: 讓 我們 去 河裡 游泳 吧 。
+translate: 你 能 借 我 一些 錢 吗 ？     target: 你 能給 我 一些 錢 嗎 ？
+translate: 你 看過 <unk> 好 了 嗎 ？     target: 你 看过 这么 好看 的 电影 吗 ？
+translate: 我 想 成为 一个 <unk> 。     target: 我 曾 經想過 當個 太空 物理 學家 。
+translate: 他 每天 早上 都 沒 有 <unk> 。     target: 他 从早到晚 只是 在 抱怨 。
+translate: 兔子 <unk> <unk> 美元 。     target: 帐单 金额 高达 100 美元 。
+translate: 星期天 不是 我 的 <unk> 。     target: 我 在 星期日 不 工作 。
+translate: 这 是 我 的 女兒 。     target: 這是 我 女兒 。
+translate: 他 <unk> 了 <unk> 。     target: 他 被选为 总统 。
+translate: 請 請 你 的 车 <unk> 。     target: 請 脫下 你 的 襪子 。
+translate: 昨天 昨天 踢足球 了 。     target: 我们 昨天 踢 了 足球 。
+translate: 你 在 <unk> 上 上 嗎 ？     target: 你 院子 裡有 桌子 嗎 ?
+translate: 你 今天 在 吃 午餐 ？     target: 你 今天 將在 哪裡 吃 午餐 ?
+translate: 我 决定 再 <unk> 了 。     target: 我 准备 再 前进 一点 。
+translate: 瑪麗 看 起來 像 她 母親 。     target: 瑪麗長 得 像 她 媽媽 。
+translate: 他 明天 <unk> 離開 了 。     target: 他 明天 出发 去 中国 。
+translate: 他 写 了 一本 <unk> 。     target: 他畫 了 一幅 玫瑰 的 畫 。
+translate: <unk> <unk> 。     target: 还是 要说 谢谢 的 。
+translate: 他 为 他 什么 都 知道 。     target: 他 以 为什么 都 知道 。
+translate: <unk> 小提琴 <unk> 很 好 。     target: 汤姆 拉 小提琴 拉得 很 好 。
+translate: 我 不 相信 她 ， 我 也 不 跟 我 说话 。     target: 即使 她 愛我 ， 我 也 不 愛 她 。
+translate: 这个 男人 <unk> 他 的 <unk> 。     target: 這個 男人 獨自 把 東西 搬 上 搬家 卡車 上 。
+translate: 他 整天 工作 。     target: 他 繼續 工作 了 一整天 。
+translate: 他 在 一棟 新 。 。     target: 他 刚来 这 镇上 。
+translate: 你 能 告诉 我 吗 ？     target: 您 会 告诉 我 吗 ？
+translate: 他们 不会 <unk> 。     target: 他們 不會 通過 的 !
+translate: 汤姆 的 生日 是 我 的 。     target: Tom 是 我 爺爺 。
+translate: 你 想 吃 任何 東西 嗎 ？     target: 你 要 喝點 什麼 嗎 ?
+translate: 我 看见 一个 隻 狗 上 看 了 猫 。     target: 我见 一只 猫 追 着 狗 跑 。
+translate: 他 告訴 了 我 他 忙 的 。     target: 他 告诉 我 他 那时 很 忙 。
+translate: 我們 看 見 他 站 在 車站 。     target: 我們 看見 他 正在 過馬路 。 。
+translate: 我們 昨晚 吃 了 第一名 。     target: 我們 昨晚 吃 了 咖哩 飯 。
+translate: 他 好像 他 很 樂 。     target: 看來 ， 他 很快 樂 。
+translate: <unk> 是 <unk> 的 。     target: 這個 傳聞後來 被 證明 是 真的 了 。
+translate: 我 很 高興 你 了 。     target: 我 很 高兴 你 回来 了 。
+translate: 你會 问 ， 我们 打电话 好 吗 ？     target: 你 会 暂时 原谅 我们 吗 ？
+translate: 你 看 你 哥哥 很 高 。     target: 你 看起来 很 像 你 的 哥哥 。
+translate: 有人 說 英語 嗎 ？     target: 有人 會 說 英語 嗎 ？
+translate: <unk> 你 想 做 的 事 。     target: 穿 你 想 穿 的 。
+translate: 汤姆 知道 玛丽 有 很多 工作 。     target: 汤姆 知道 玛丽 的 很多 事 。
+translate: 冬季 已 <unk> 了 。     target: 预订 好 了 。
+translate: <unk> <unk> <unk> ， 你 就 有 <unk> <unk> 。     target: 穿 上 外套 吧 ！ 你 會 暖 一些 。
+translate: 我 喜歡 旅行 。     target: 我 喜歡 旅行 。
+translate: 讓 我們 在 這裡 直到 他 等 他 。     target: 讓 我們 在 這裡 等 他 直到 他 回來 。
+translate: 我想 一些 甜 的 東西 。     target: 我 想要 吃 甜 的 東西 。
+translate: 你 最近 <unk> <unk> 了 嗎 ？     target: 您 参观 过 东京 塔 吗 ？
+translate: 你 必须 <unk> 。 。     target: 你 必须 选择 。
+translate: 我 觉得 我 的 手臂 很 <unk> 。     target: 我 想 我 的 右 手臂 斷 了 。
+translate: 他 不是 <unk> 。 。     target: 他 没 违法 。
+translate: 我 没有 <unk> 回來 。     target: 我 没什么 可 依靠 的 了 。
+translate: 我 你 想 見 到 我 父母 。     target: 我 想 讓 你 見 見 我 的 父母 。
+translate: 我 的 <unk> 比 你 的 <unk> 。     target: 我 的 车子 的 开销 比 你 的 要 多 。
+translate: 我们 知道 她 是 <unk> <unk> 的 。     target: 我們 知道 人 皆 難免 一死 。
+translate: 你 准备 好了吗 ？     target: 您 准备 好了吗 ？
+translate: 鸟儿 <unk> 了 。     target: 這 隻 烏鴉 飛 走 了 。
+translate: 我 可能 犯 了 个 错误 。     target: 我 可能 搞错 了 。
+translate: 你 不是 醫生 。     target: 您 不是 医生 。
+translate: 这 是 我 的 辦 照片 。     target: 這裡 有 一張 我 全家 的 照片 。
+translate: 你 能 再 给 我 搬 了 吗 ？     target: 你 能 为 我 腾出 几分钟 时间 吗 ?
+translate: <unk> 的 英語 是 <unk> 。     target: 流利 的 英語 是 必須 的 。
+translate: 没有 问题 都 <unk> ！     target: 没有 任何 问题 !
+translate: 他們 把 <unk> 被 <unk> 了 。     target: 他们 从 巴西 远道而来 。
+translate: 你 為 什麼 這麼 生氣 ？     target: 你 為 什麼 不再 試 一次 ?
+translate: 我 今天 前 <unk> 了 他 。     target: 我 在 一周 前 的 今天 拜訪 了 他 。
+translate: 她 在 完成 這個 城市 嗎 ？     target: 她 在 这个 城市 工作 吗 ？
+translate: 為 什麼 <unk> 你 怎么 做 它 。     target: 护士 会 告诉 你 怎么 做 。
+translate: 我们 期待 著 你 和 你 的 家人 見 。     target: 我们 都 期待 看到 你 和 你 的 家人 。
+translate: 她 不 知道 如何 打 網球 。     target: 她 不 知道 怎麼 打 高爾夫球 。
+translate: 他 爬 <unk> 了 。     target: 他 加入 了 陸 軍 。
+translate: 你 真的 <unk> ， 不是 嗎 ？     target: 你 真的 很 幸運 ， 不是 嗎 ？
+translate: 这 <unk> 有 很多 的 <unk> 。     target: 富人 有时 会 看不起 穷人 。
+translate: 他 把 信 回来 了 。     target: 他 把 那 封信 原封 不動 寄 回去 了 。
+translate: 我 沒 有 任何 任何 東西 。     target: 我 不 需要 任何 東西 。
+translate: 汤姆 失去 了 他 的 车 。     target: 汤姆 丢 了 他 的 车 钥匙 。
+translate: 汤姆 <unk> 了 。     target: 汤姆 饱 了 。
+translate: 我 期待 見 到 他 。     target: 我 期待 再次 見 到 他 。
+translate: 我 在 早上 夏天 我 在 <unk> 。     target: 我 在 暑假 里 早晨 学习 。
+translate: 她 对 她 真是 <unk> 。     target: 无可否认 她 非常 有 能力 。
+translate: 我 不能 <unk> 它 在 它 。     target: 我 不能 忍受 就 這樣 看 著 它 。
+translate: 她 <unk> 輕 年轻 。     target: 她 羞怯 地 看 了 一眼 那個 年 輕人 。
+translate: 我怕 我 不 迟到 的 。     target: 我怕 我 可能 遲到 了 。
+translate: 我 今天下午 會 有空 。     target: 我 明天 下午 有空 。
+translate: 他 一定 愛 你 。     target: 他 一定 很 愛 你 。
+translate: 請 记得 他 說 的 話 。     target: 請 記住 他 說 的 話 。
+translate: 不会 ！     target: 没门 ！
+translate: 我 叫 我 去 了 。     target: 明天 我 得 购物 。
+translate: 如果 一個 感冒 ， 我 去 很早 起床 。     target: 因為 我 有 點頭 疼 ， 所以 我 早早 上床 睡覺 。
+translate: 我 对 他 的 演讲 感到 <unk> 。     target: 我 對 他 的 演說 感到 失望 。
+translate: 讓 我們 等 吧 吧 ， 你 等 你 。     target: 讓 我們 等 一會兒 看看 你 怎麼 做 。
+translate: 我 的 行李 是 新 的 。     target: 我 的 钢笔 是 新 的 。
+translate: 谁 正在 拉 小提琴 <unk> 季节 ？     target: 那個 正在 拉 小提琴 的 男人 是 誰 ?
+translate: 你 能 找到 它 吗 ？     target: 你 能 找到 它 嗎 ？
+translate: 我 愛 運動 <unk> 。     target: 我 爱 听 有关 动物 的 笑话 。
+translate: <unk> 了 <unk> ， <unk> 了 。     target: 我 年 紀夠 大 可以 養活 我 自己 。
+translate: 他 真 <unk> 。     target: 他 很穷 。
+translate: 你 今天 做 什么 ？     target: 你 今天 怎么样 ？
+translate: 這個 <unk> <unk> 给 <unk> 牛奶 。     target: 那家店 卖 报纸 和 杂志 。
+translate: 對 不起 打擾 你 了 。     target: 我 很 抱歉 打擾 你 了 。
+translate: 汤姆 不 知道 他 有 一个 <unk> 和 <unk> 。     target: 汤姆 不 知道 伊拉克 和 伊朗 有 什么 区别 。
+translate: 汤姆 可能 已經 已经 了 了 。     target: 汤姆 可能 已经 走 了 。
+translate: 我 承认 他 是 對 的 。     target: 我 承认 他 是 对 的 。
+translate: <unk> <unk> <unk> 。 。     target: 沙灘 上 的 人 非常少 。
+translate: 我們 看见 <unk> 在 <unk> 上 了 。     target: 我們 在 港口 裡 看到 了 許多船 。
+translate: 今天 的 天氣 怎么样 ？     target: 今天天气 怎么样 ？
+translate: 我 今天 早上 看 了 電視 。     target: 我 今天 早上 看 了 电视 。
+translate: 去年 她 在 床上 後 ， 她 打 了 她 。 。     target: 她 和 以前 比起 來變 了 很多
+translate: 我 是 一個 外國人 和 ， 我 不 高兴 一點 。     target: 我 是 外国人 ， 我 捷克语 不好 ， 请 说 慢 一点 。
+translate: 我 不 见 你 ， 我 <unk> 你 了 。     target: 我 不是 要求 你 ， 我 是 恳请 你 。
+translate: 我 不 懂 他 的 想法 。     target: 我無法 理解 他 的 想法 。
+translate: 他 知道 怎么 買 <unk> 。     target: 他 知道 如何 做 收音机 。
+translate: 我 有 住 <unk> 倫敦 的 朋友 。     target: 我 有 一個 住 在 倫敦 的 朋友 。
+translate: 我 知道 你 知道 我 在 知道 。     target: 我 知道 你 知道 我 知道 。
+translate: 她 打破 了 <unk> 。     target: 她 八十一 歲 了 。
+translate: 我 想要 一本 旅館 的 旅館 。     target: 我 想要 订房 。
+translate: 你 要 去 什麼 ？     target: 你 的 生意 进展 如何 ？
+translate: 老師 向 我们 <unk> <unk> 。     target: 老師 要 我們 重 複 這個 字 。
+translate: 我 没有 相信 那個 。     target: 我 不是 百分之百 确定 。
+translate: 谢谢 你 <unk> 。     target: 顯然 的 ， 你 錯 了 。
+translate: 請 你 更 多 的 時間 。     target: 以后 请 注意 点 。
+translate: <unk> 了 <unk> 美元 。     target: 我付 了 兩 百元 含稅 。
+translate: 它 是 我 的 <unk> 。     target: 它 在 我 的 舌尖 上 。
+translate: 我 不 待 在家 ， 但 不 在家 。     target: 我 沒 去 ， 但 我 留在 家裡 。
+translate: 今天下午 會 下雨 。     target: 今天下午 天氣將 轉晴 。
+translate: 不要 把 这 本书 ， 我 <unk> 它 。     target: 这本 杂志 不要 扔 。 我 还 没 看 呢 。
+translate: 事故 是 一場 意外 。     target: 曾經 有 一個 意外 。
+translate: <unk> <unk> 。     target: 门 被 踢开 了 。
+translate: 汤姆 会 在 那儿 ， 不是 嗎 ？     target: 汤姆 会 去 那里 ， 不是 么 ？
+translate: 我 不想 <unk> 。     target: 我 不想 落榜 。
+translate: 我 等 我 的 朋友 買 了 一個 小时 。     target: 我 等 我 的 一个 朋友 等 了 一 小时 。
+translate: 你 把 <unk> 信 了 嗎 ？     target: 你 信寫 完 了 嗎 ？
+translate: 她 很 高兴 我 的 礼物 。     target: 她 對 於 我 送 的 禮物 感到 很 開心 。
+translate: 他 總 是 讓 我 真相 。     target: 他 總 是 說 實話 。
+translate: 我 的 房間 比 你 的 房间 。     target: 我 的 房間 是 你 的 三倍 大 。
+translate: <unk> 的 時候 ， 你 的 <unk> <unk> 。 。     target: 趁汤 没凉 之前 喝下 。
+translate: 我 叔叔 和 我 <unk> 。 。     target: 我 舅舅 讓 我 擔任 翻譯 。
+translate: 她 <unk> <unk> <unk> 了 。     target: 她 設法 保住 面子 。
+translate: 汤姆 现在 醉 了 。     target: 汤姆 现在 醉醺醺 的 了 。
+translate: 我 现在 经常 <unk> 。     target: 我 不時 地覺 得 難過 。
+translate: 我們 <unk> 了 朋友 。     target: 我们 是 老朋友 了 。
+translate: 我 <unk> 了 他 的 電話 。     target: 我 最近 听说 了 不少 。
+translate: 不是 學生 都 喜欢 蘋果 。     target: 不是 每 一个 孩子 喜欢 吃 苹果 。
+translate: <unk> 是 ， 他 是 他 的 工作 。     target: 因為 那個 原因 ， 他 失去 了 工作 。
+translate: <unk> <unk> 了 <unk> <unk> 。     target: 這 隻 老鼠 跑 進洞裡 。
+translate: 他 和 孩子 结婚 了 。     target: 他 已婚 並育 有 兩個 孩子 。
+translate: <unk> <unk> 。     target: 向左转 。
+translate: 我們 <unk> <unk> 。     target: 我們 追著貓 。
+translate: 你 應該 回家 。 。     target: 回家 的 路上 注意安全 。
+translate: 汤姆 在 <unk> 上 住 在 <unk> 。     target: 汤姆 在 客厅 ， 躺 在 长沙 发 上 睡觉 。
+translate: 我 問過 中午 前 到 汤姆 了 。     target: 我 三天 前 第一次 见 汤姆 。
+translate: 英語 在 用 英語 說 英語 。     target: 英語 在 大部份 的 國家 被 教授 。
+translate: 我 聽 到 他 <unk> 。     target: 我 打赌 他 没 搞定 。
+translate: 我 的 飛機 还 饿 了 。     target: 我 的 脖子 还 疼 。
+translate: 这 不 錯過 <unk> 。     target: 訓練 狗 是 不 容易 的 。
+translate: 我 想 要 我 的 房間 。     target: 我 想要 有 我 自己 的 房间 。
+translate: <unk> ！ ！     target: 閉嘴 ！
+translate: <unk> <unk> 多少 国家 是 多少 ？     target: 公車 票價 多少 錢 ？
+translate: 你 什么 时候 会 是 什么 ？     target: 什麼 時候 對 你 來 說 是 方便 的 ？
+translate: 他 很 高 。     target: 他 很 高 。
+translate: 我们 應該 <unk> <unk> <unk> 。 。     target: 天气预报 说会 下 三 英寸 雪 。
+translate: <unk> 是 个 很 的 作家 。     target: 山米 戴維斯 是 一個 優秀 的 歌手 。
+translate: 天空 <unk> <unk> <unk> 。 。     target: 這條 路 對 汽車 來 說 太窄 了 。
+translate: <unk> 吧 ！     target: 不用 找 零钱 了 。
+translate: 我们 的 時候 要 去 了 。     target: 差不多 是 我們 就 寢 的 時間 了 。
+translate: 你 為 什麼 不 認為 我 的 想法 ？     target: 你 為 什麼 不 聽 我 的 忠告 ？
+translate: 她 早上 早起 。     target: 她 清晨 離開 了 。
+translate: 我 不 知道 汤姆 知道 什么 。     target: 我 不 懂 汤姆 怎么 知道 的 。
+translate: <unk> <unk> ， 我 也 <unk> 。     target: 停止 ， 不然 我 就 開槍 了 。
+translate: <unk> 上 在 <unk> 上 <unk> 。     target: 廣島 有 一個 地方 叫口 和 。
+translate: 我 在 打 棒球 。     target: 我常 打 排球 。
+translate: 汤姆 不 <unk> 。     target: 汤姆 说话 不 多 。
+translate: 他 擅長 游泳 。     target: 他 擅長 放風箏 。
+translate: 她 是 出生 的 ？     target: 她 是 什么 时候 出生 的 ？
+translate: 汤姆 没有 <unk> 那里 没有 那里 。     target: 汤姆 确定 那里 会 有 很多 人 。
+translate: 我 <unk> 被 <unk> 得到 了 <unk> 。     target: 我 在 电梯 里面 闻到 烟味 。
+translate: 你 在 说 什麼 ？     target: 你 跟 誰 說 話 呢 ？
+translate: 他們 ， 他們 會 哭 哭 。     target: 他們 看 起來 好像 要 哭 了 。
+translate: 问题 ！     target: 没 问题 ！
+translate: 我 爸爸 <unk> <unk> 这个 <unk> 。     target: 我 爸爸 会 在 这 周末 回家 。
+translate: 你 為 什麼 這麼 電話給 你 這麼 好 ？ ？     target: 到 目前为止 ， 你 认为 你 阅读 过 多少 书籍 ？
+translate: 我 沒 有 你 名字 的 名字 。     target: 我 沒 聽 清楚 你 的 名字 。
+translate: 你 有 一双 <unk> 。     target: 你 有着 漂亮 的 腿 。
+translate: 我 真的 不 高兴 它 。     target: 我 對 此 真 不 高興 。
+translate: 她 在 狗 和 一 隻 狗 <unk> 。     target: 她 有 一只 狗 和 六只 猫 。
+translate: 你 是 我 做 的 事 。     target: 你 是 我 的 一切 。
+translate: 我 的 兒子 <unk> 了 他 。     target: 我 儿子 在 刷牙 。
+translate: 我 厭倦 了 我 的 <unk> 。     target: 我 自己 搞定 ， 修好 了 我 的 车 。
+translate: 他们 说 他 是 一个 人 。     target: 據 說 他 很 富有 。
+translate: <unk> 吉他 ， 謝謝 。     target: 麻煩 再 來 一瓶 葡萄酒 。
+translate: 他們 不 知道 。     target: 他們 不 需要 知道 。
+translate: 我們 在 公园 里 玩 了 。     target: 我們 在 公園裡 聚在一起 。
+translate: 汤姆 <unk> 了 。     target: 汤姆 要 发疯 。
+translate: 你 写 的 <unk> 嗎 ？     target: 你 有 Facebook 帳號 嗎 ？
+translate: 他 明天 <unk> <unk> 了 。     target: 他 明天 出发 去 中国 。
+translate: 您 能 用 我 的 字典 嗎 ？     target: 把 你 的 字典 借給 我 好 嗎 ？
+translate: 他 無法 打開 這個 箱子 。     target: 他 沒 有 能力 打開 箱子 。
+translate: 這架 <unk> 被 <unk> 了 。     target: 大 爆炸 致死 六人 。
+translate: 我 沒 有 見 她 。     target: 我 没有 遇见 她 。
+translate: 所有 的 人 都 是 <unk> <unk> 。     target: 所有 迹象 表明 她 好 起来 了 。
+translate: 你 昨天 去 哪儿 了 ？     target: 你 昨天 去 哪裡 了 ？
+translate: 我 想 参加 富士山 。     target: 我 又 去 爬 了 一次 富士山 。
+translate: 你 能 跟 我 <unk> <unk> 好 嗎 ？     target: 你 能給 我 看看 這條 領帶 嗎 ？
+translate: 我 的 房子 在 街 對面 。     target: 我 的 房子 就 在 對 街 。
+translate: 他 <unk> 了 就 <unk> 。 了 。     target: 他 沒 說 一句 話 就 離開 了 。
+translate: 這個 学校 在 <unk> <unk> 。     target: 这所 学校 建于 1650 年 。
+translate: 英語 很 難 <unk> 。     target: 英語 並不難學 。
+translate: 那 把 他 的 <unk> <unk> 了 他 。     target: 丑闻 让 他 付出 了 失去 声誉 的 代价 。
+translate: 我 明天 晚上 踢足球 。     target: 我 明天 下午 休假 。
+translate: 为什么 它 有 <unk> 多人 的 <unk> 怎么样 ？     target: 为了 救 许多 人 牺牲 一个 人 是否 道德 ？
+translate: 如果 他 确定 他 是 他 的 醫生 ， 但 他 还 活着 。     target: 如果 他 听 了 他 医生 的 建议 ， 他 可能 还 活着 。
+translate: 我 就 不会 让 <unk> 做 。 。     target: 我 发誓 我 不会 做 这种 事 。
+translate: 我们 <unk> 。     target: 我们 很 保守 。
+translate: 說 英語 很 難 。     target: 說 英語 很 難 。
+translate: 我 今晚 想 吃 <unk> 。     target: 我 今晚 想吃些 批萨 。
+translate: 他們 现在 吃 早饭 。     target: 他們 現在 正在 吃 早飯 。
+translate: 我们 一定 沒 有 大雨 。     target: 上個 月 我們 這兒 沒 有 下 很多 雨 。
+translate: 他 是 <unk> 的 人 。     target: 他 是 第一 個 到 達 的 人 。
+translate: 你 喜歡 日本料理 嗎 ？     target: 你 喜欢 日本 菜 吗 ？
+translate: 我會 在 这里 等 等 我們 。     target: 我會 在 這兒 等 著 直到 她 來 。
+translate: 我能 <unk> 這個 問題 吗 ？     target: 我能 问个问题 吗 ？
+translate: 你 知道 怎么 講英語 嗎 ？     target: 你 知道 怎麼 說 英語 嗎 ？
+translate: 我 今天 早上 早上 兩個 小時 工作 。     target: 我 每个 周末 早上 工作 三 小时 。
+translate: 你 知道 在 <unk> <unk> <unk> 吗 ？     target: 你 知道 伦敦 交响乐团 的 演奏会 行程 吗 ？
+translate: 這條 公車 <unk> 你 就 去 城市 。     target: 巴士 会 把 你们 带到 市中心 。
+translate: 我 认为 他 是 个 好人 。     target: 我 认为 他 是 位 伟大 的 作家 。
+translate: 你 什麼 時候 回家 ？     target: 你 什麼 時候 要 回家 ?
+translate: 他 <unk> 我 的 成功 。     target: 他 為 我 的 成功 恭賀 我 。
+translate: 他 把 照相机 扔 了 這個 瓶子 。     target: 他 扔 了 一塊 石頭 到 池塘 裡 。
+translate: 这 是 <unk> <unk> 的 <unk> 。     target: 这个 地方 的 气氛 很 神秘 。
+translate: 我 没有 人 都 <unk> 。     target: 我 无法 独自 面对 这种 生活 。
+translate: 請 我 看看 你 看看 好 嗎 ？     target: 讓 我 看 你 一會兒 好 嗎 ?
+translate: 没有 人 说 。     target: 没人会 讲 。
+translate: 我 学习 的 时候 不要 打扰 我 。     target: 当 我 学习 的 时候 不要 打扰 我 。
+translate: <unk> 中 的 住 在 這個 城市 中 住 在 教室 。     target: 100 万人 在 战争 中 失去 了 生命 。
+translate: 我要 去 去 。     target: 我要 失去 它 了 。
+translate: <unk> <unk> 在 哪裡 ?     target: 在 美國 的 人 說 什麼 語言 ?
+translate: 我 必須 找 一份 兼職 的 工作 。     target: 我 得 找 一份 兼職 工作 。
+translate: 他 從 <unk> 開車 到 回來 。     target: 他 周一 到 周五 上班 。 。
+translate: 让 我们 保持 吧 。     target: 来 商量 吧 。
+translate: 我 生病 了 。     target: 我 生病 了 。
+translate: 她 在 任何 <unk> 。 。     target: 她 问 这 怎么 可能 。
+translate: 我 甚至 不 知道 汤姆 ， 不 去 。 。     target: 我 甚至 不 知道 汤姆 有没有 上 过 大学 。
+translate: 你 應該 應該 用 你 的 水果 。     target: 你 要 更好 地 利用 闲暇 时间 。
+translate: 当 我 聽 到 這個 消息 ， 我 <unk> 了 。     target: 當我 聽 到 這個 消息 ， 我 哭 了 。
+translate: <unk> 是 个 <unk> 。     target: 创造 主义 是 一种 伪科学 。
+translate: 我們 <unk> <unk> <unk> <unk> 。     target: 我們 提供 了 難民們 毛毯 。
+translate: 她 請 他 等 了 一個 小時 。     target: 她 讓 他 等 了 半小時 。
+translate: 現在 是 我 的 。     target: 它 现在 归 我 了 。
+translate: <unk> <unk> 和 水 <unk> 。     target: 天文 學 涉及 恆星 和 行星 。
+translate: 你 很 高 ， 不是 不是 嗎 ？     target: 你 真的 很 高 ， 不是 嗎 ？
+translate: 我 不 懂 這個 話 。     target: 我 不 明白 這句 話 。
+translate: 她 買 了 IBM 的 <unk> 。     target: 她 買 了 兩雙 襪子 。
+translate: 你 今天 早上 遲到 了 ？     target: 今天 早上 你 為 什麼 遲到 了 呢 ?
+translate: 我 希望 我 覺得 <unk> <unk> 了 。     target: 我 想 我 感到 有點 嫉妒 。
+translate: 我 的 报纸 在 果汁 吗 ？     target: 我 的 蘋 果汁 在 哪 ?
+translate: 汤姆 好 嗎 ？     target: 汤姆 还好 吧 ？
+translate: 这 真的 不 便宜 嗎 ？     target: 这 真的 值得 吗 ？
+translate: 你 不 知道 那個 吗 ？     target: 你 了解 它 吗
+translate: 汤姆 今天 不会 走 ， 因为 <unk> 我 也 不 好 。     target: 汤姆 今天 不 舒服 所以 没 来 上班 。
+translate: 這些 <unk> 一下 吧 。     target: 關閉 所有 的 門和 窗戶 。
+translate: 我们 在 住 在 一家 一個 <unk> 。     target: 我们 在 找 一个 漂亮 的 屋子 住 。
+translate: 她 在 <unk> 上 得到 了 <unk> 。     target: 她 在 銀座 搭乘 了 地 鐵 。
+translate: 他 不是 那 ， 但 不是 <unk> 。 。     target: 他 不是 歌手 ， 但是 个 演员 。
+translate: 我們 看到 了 孩子 上 看 了 公車 。     target: 我们 看见 孩子 上 了 车 。
+translate: 我 不 知道 她 是 什么 。     target: 我 不 知道 她 是 谁 。
+translate: 我 成功 了 你 的 機會 。     target: 你 给 我 的 理由 够 多 了 。
+translate: 我 刚 离开 了 。     target: 他 刚 到 。
+translate: 他 比 <unk> 多 更 多 。     target: 他 有 五本 以上 的 字典 。
+translate: 我 问 汤姆 是否 没有 。     target: 我 怀疑 汤姆 是 单身 。
+translate: 你 昨天 看 了 我 的 叔叔 認識 。     target: 你 昨天 看到 的 那个 男人 是 我 叔叔 。
+translate: 我 昨天 <unk> 了 。     target: 昨天 我 釣 了 三 條魚 。
+translate: 美國 是 一個 安全 的 <unk> 。     target: 美國 是 一個 移民 國家 。
+translate: 你 能 让 我 跳舞 嗎 ？     target: 你 能 帮 我 说明 一下 规则 吗 ？
+translate: 谁 准备 好 嗎 ？     target: 所有人 都 准备 好了吗 ？
+translate: 我 常常 <unk> 。     target: 我 经常 打嗝 。
+translate: 我 很 高兴 见到 他 。     target: 我 很 高兴 见到 他 。
+translate: 我 知道 <unk> 飛機 旅行 。     target: 我 对 纽约 了如指掌 。
+translate: 我 忘 了 她 。     target: 我 接受 了 她 的 邀 請 。
+translate: 他 把 球 <unk> 了 <unk> 。     target: 他 把 球 踢 進 了 球門 。
+translate: 我 想 它 。     target: 我會 考慮 一下 。
+translate: 他們 站 去 車站 。     target: 他們 坐車 去 車站 。
+translate: 我 妹妹 非常 <unk> 。     target: 我 妹妹 唱歌 很 好听 。
+translate: 一個 是 是 是 <unk> <unk> 的 男人 的 <unk> 。     target: 對 某人 有利 的 對 另外 的 人 未必 有利 。
+translate: 她 问 我 一些 計劃 <unk> 。     target: 她 问 我 喜不喜欢 这个 计划 。
+translate: 那 目的 是 多少 ？     target: 那幅 画有 多少 年 了 ？
+translate: <unk> 在 <unk> 。     target: 毛 皮大衣 在 打折 。
+translate: 你 <unk> 年轻 。     target: 你 仍然 很 年 輕 。
+translate: 汤姆 要 孩子 ， 玛丽 说 了 。     target: 汤姆 想要 孩子 ， 但 玛丽 不想 。
+translate: 我 不 知道 他 是从 哪里 。     target: 我 不 知道 他 從 哪裡 來 。
+translate: 請 看 我 吧 。     target: 請 幫 我 把 今天 的 報紙 帶來 。
+translate: 伦敦 是 <unk> <unk> 的 。     target: 倫敦 是 英國 的 首都 。
+translate: 我 沒 有 <unk> 见 你 看過 你 见 过 什么 吗 ？     target: 好久不见 了 。 记得 上次 我 什么 时候 看见 你 的 吗 ？
+translate: 他 對 學生 有 学生 。     target: 他 受到 學生 的 歡迎 。
+translate: 但願 我 是 個 好 的 歌手 。     target: 但愿 我 是 一个 好 歌手 。
+translate: 我們 十分 月 <unk> 了 。     target: 下个月 我们 会 有 辆 新车 。
+translate: 她 喜歡 柳橙 。     target: 她 喜欢 橙子 。
+translate: 他 為 遲到 <unk> 遲到 。     target: 他 为 他 的 迟到 制造 了 一个 借口 。
+translate: 我 必須 在 10 月 到 那裡 。     target: 我七點 鐘必須 在 那裡 。
+translate: 跟 我 说 她 <unk> <unk> <unk> 。     target: 在 我 看來 ， 她 有 一種 誇張 的 傾向 。
+translate: 他 是 個 好人 。     target: 他 是 個 好人 。
+translate: 我們 做 了 <unk> <unk> 。 。     target: 我們 提出 了 請求 支持 的 呼籲 。
+translate: <unk> <unk> <unk> 結成 冰 。     target: 水在 攝氏 100 度沸騰 。
+translate: 没有 <unk> 。     target: 沒 有人 受傷 。
+translate: 我們 该 去 那裡 。     target: 我们 必须 一起 去 。
+translate: 我 <unk> 了 。     target: 我燒 了紙 。
+translate: 学校 8 点半 开始 上课 。     target: 學校 八點 半開始 上 課 。
+translate: 我 <unk> <unk> <unk> 火車 。     target: 我 匆匆忙忙 ， 为的是 能 赶上 第一班 火车 。
+translate: 我 打 了 我 父親 的 兄弟 。     target: 我 和 我 的 兄弟 打 網球 。
+translate: 我 必須 <unk> 我 的 房子 。     target: 我 得 卖 我 的 房子 。
+translate: 他 <unk> 了 <unk> <unk> <unk> <unk> <unk> 。     target: 他 死 前 累積 了 龐大 的 財富 。
+translate: 她 和 我 没有 任何 共同点 。     target: 我 和 她 沒 有 共同 之處 。
+translate: 瑪麗 帮 她 把 <unk> <unk> 衣服 。     target: 瑪麗幫 她 母親 做 飯 。
+translate: 你 没有 钱 。     target: 您 沒 有 任何 錢 。
+translate: 他 试着 <unk> <unk> <unk> <unk> 。     target: 他試 著統 一 不同 的 團體 。
+translate: 請 你 把 窗戶 <unk> 好 嗎 ？     target: 請 您 把 那 扇 窗戶 關起 來 好 嗎 ？
+translate: 他 退休 了 ， 他 <unk> 了 。     target: 他 65 岁 退 了 休 。
+translate: 請 您 的 鞋子 <unk> 。     target: 請脫 掉 你 的 鞋子 。
+translate: 请 写 铅笔 。     target: 請用 鉛 筆寫 。
+translate: 他 从 <unk> <unk> 了 。     target: 鈴響 後 他 就 到 了 。
+translate: 你 昨天晚上 做 了 什麼 ？     target: 你 昨晚 做 了 什麼 ？
+translate: 我 已 <unk> <unk> 了 个 老師 。     target: 我當 老師 已經 15 年 了 。
+translate: 不要 告诉 我 我 的 問題 。     target: 别问 问题 。 跟着 我 就 行 。
+translate: 我们 的 孩子 都 <unk> 狗 ， 但 我 都 喜欢 猫 。     target: 我们 的 孩子 喜欢 狗 ， 但 我 更 喜欢 猫 。
+translate: 谁 喜歡 <unk> ？     target: 谁 喜欢 豆子 ？
+translate: 這裡 有 很多 <unk> 。     target: 那有 两块 蛋糕 。
+translate: 我 希望 你 帮 你 。     target: 我 愿意 帮 你 。
+translate: 我 不 相信 孩子 们 <unk> <unk> 。     target: 我 不 相信 孩子 能 独自 到 东京 。
+translate: 我 通常 搭公車 去 上學 。     target: 我 經常 搭公車 上學 。
+translate: 汤姆 知道 怎么 在 <unk> <unk> 。     target: 汤姆 知道 在 公众 场合 怎么样 自 处 。
+translate: 我 现在 需要 喝 什么 。     target: 我現 在 想要 喝點 東西 。
+translate: 郵票 將在 下個 月 <unk> 。     target: 新郵票將 於 下個 月 發行 。
+translate: 为什么 我们 不 回家 ？     target: 我们 何不 回家 呢 ？
+translate: 我 想要 更 多 。     target: 我要 多 很多 。
+translate: 她 她 做 了 一本 <unk> 。     target: 她 買 的 東西 很 昂貴 。
+translate: 你 能 做 了 ， 不是 嗎 ？     target: 你 可以 做到 ， 不是 嗎 ？
+translate: 他們 死 於 <unk> 。     target: 林肯 於 1865 年 去世 。
+translate: 这 是 我 最 <unk> 的 書 。     target: 这 是 我 读过 的 书 里面 写 的 最差 的 一本 了 。
+translate: 他 的 手 <unk> 了 他 的 手 。 。     target: 昨晚 他 的 車被 偷 了 。
+translate: 我 想 成为 咖啡 。     target: 我 想要 一杯 咖啡 。
+translate: 他 <unk> <unk> 会 把 他 的 <unk> 来 <unk> 。     target: 他 從 沒放棄 達成 那個 目標 的 希望 。
+translate: <unk> <unk> 在 <unk> 世纪 <unk> 。     target: 倫敦 許多 部份 在 十七 世紀時 被 摧毀 。
+translate: 我 把 我 的 房間 <unk> 我 的 房間 。     target: 我 讓 她 打 掃 了 我 的 房間 。
+translate: 我們 学校 在 河 。     target: 我們 學校 在 河 的 對面 。
+translate: 我 請 他 把 車子 <unk> 。     target: 我 請 他 修理 我 的 鞋子 。
+translate: 明天 我會 到 你 。     target: 明天 我會 打 電話給 你 。
+translate: 我 猜 我 现在 该 离开 了 。     target: 我想 我現 在 得 走 了 。
+translate: 你 能 解決 這個 問題 吗 ？     target: 你 能 解決 這個 問題 嗎 ？
+translate: 我 的 母親 不 喜欢 電視 。     target: 我 母親 不 喜歡 看 電視 。
+translate: 汤姆 跑 了 。     target: 汤姆 跑得快 。
+translate: 你 完成 你 的 功課 了 嗎 ？     target: 你 做 了 所有 的 功課 嗎 ？
+translate: 我 幫 我 <unk> 他 的 车 。     target: 我 幫 我 父親 洗 他 的車 。
+translate: 我 是 他 的 弟弟 故事 。     target: 我 被 他 的 故事 感染 了 。
+translate: 請 你 把 鹽 遞給 我 好 嗎 ？     target: 請 你 把 鹽 遞給 我 好 嗎 ?
+translate: 他 把 自己 的 房間 <unk> 了 。 。     target: 他 保持 他 的 房間 乾淨 。
+translate: 汤姆 三年 三年 了 。     target: 汤姆 学了 三年 法语 。
+translate: 你 给 我 的 一个 男孩 <unk> <unk> 。 。     target: 你 让 我 想起 我 过去 认识 的 一个男孩 。
+translate: 我 想要 <unk> 。     target: 我 想要 一颗 糖 。
+translate: 我 不 喜欢 他 ,   但 我 很 喜欢 他 。     target: 我 不 太 喜欢 他 ， 其实 我 讨厌 他 。
+translate: 這些 国家 是 你 的 <unk> ？     target: 這些 球拍 中 哪 一支 是 你 的 ？
+translate: 我 儿子 要 週要 去 法国 。     target: 我 儿子 下周 要 去 法国 了 。
+translate: 我 必須 去 醫院 。     target: 我 得 去 医院 。
+translate: 我 想要 需要 <unk> 的 東西 。     target: 我要 更 多 詳細 的 訊息 。
+translate: <unk> 人 跟 這個 <unk> 這個 <unk> 。     target: 兩個 人 可以 用 這張票 入場 。
+translate: 你 不想 <unk> 吗 ？     target: 你 不想 做 编辑 ？
+translate: 我们 玩 得 很 開心 。     target: 我們 打牌 玩得 很 開心 。
+translate: 他 偷 了 我 的 報告 。     target: 他 仔細 看 了 我 的 報告 。
+translate: 這 隻 狗 抓住 了 水 。     target: 狗 追 兔子 。
+translate: 你 的 <unk> 吗 ？     target: 有過 任何 改變 嗎 ？
+translate: 我 喜欢 <unk> 。     target: 我 喜歡 紅色 的 玫瑰 。
+translate: 我 只是 一個 普通 的 工作 。     target: 我 只是 一個 普通 的 上班族 。
+translate: 我 不 不 知道 。     target: 我 无从 知道 。
+translate: <unk> <unk> 在 大阪 。     target: 公交车 迟到 了 。
+translate: 他们 想 更 多 。     target: 他們 想要 更 多 。
+translate: 你 已经 <unk> 了 。     target: 您 被 骗 了 。
+translate: 你 什麼 所有 的 地址 是 你 的 ？     target: 你 什麼 時候 更改 了 你 的 地址 ?
+translate: 那里 有 很多 <unk> 。     target: 那裡 太多人 了 。
+translate: 如果 你 来 的 時候 ， 你 會 去 我们 。     target: 这些 天 我会 抽 一天 来看 你 的 。
+translate: 一个 是 一個 <unk> 的 人 都 喜欢 <unk> 。     target: 亲吻 一个 抽烟 的 人 就 像 在 舔 烟灰缸 。
+translate: 你現 在 忙 嗎 ？     target: 現在 你 們 忙 嗎 ？
+translate: 为什么 他 今天 不 打 網球 吗 ？     target: 為 什麼 他 今天 不能 打 網球 呢 ？
+translate: 我們 <unk> <unk> 所有 的 房間 。     target: 我们 游览 了 所有 主要 城市 。
+translate: 你 多久 了 多久 ？     target: 你 待 了 多久 ?
+translate: 請給 我 看看 <unk> 好 嗎 ？     target: 請給 我 一張 餐巾 紙好 嗎 ？
+translate: 我们 在 <unk> 他 就 会 <unk> 。 。     target: 他来 了 ， 我们 就 开始 派对 。
+translate: 我 不 沒 有 <unk> 的 房間 。     target: 我 不 知道 確切 的 日期 。
+translate: <unk> <unk> 這個 水 。     target: 請 把 這個 桶子 裝滿水 。
+translate: 汤姆 不 不 很 满意 。     target: Tom 不 容易 被 滿足 。
+translate: 汤姆 不 把 玛丽 见 玛丽 。     target: 汤姆 不介意 偶尔 给予 玛丽 帮助 。
+translate: 我 發現 这 本书 很 有趣 。     target: 我 觉得 这 本书 很 有意思 。
+translate: 汤姆 <unk> <unk> <unk> <unk> 的 <unk> 。     target: 汤姆 给 自己 浇 凉水 以 清醒过来 。
+translate: 那 是 你 的 <unk> 。     target: 做 那事 是 浪费 你 的 时间 。
+translate: 没有 人 知道 <unk> <unk> <unk> <unk> <unk> <unk> 。     target: 没有 人 明白 为什么 大象 突然 攻击 了 它 的 主人 。
+translate: 她 生于 <unk> 。     target: 她 渾身 濕透 了 。
+translate: 英語 在 哪裡 <unk> 。     target: 在 中國 的 人 也 研讀 英語 了 。
+translate: 許多 日本 <unk> <unk> 了 。     target: 许多 小 公司 倒闭 了 。
+translate: 汤姆 不 知道 我 在 哪里 了 。     target: 汤姆 不再 给 我 写信 了 。
+translate: <unk> <unk> ， <unk> 和 <unk> 了 。     target: 走過 兩個 街區 ， 然後左轉 。
+translate: 你 是 在 找 工作 嗎 ？     target: 你 在 找 工作 吗 ？
+translate: 所有人 都 <unk> <unk> <unk> <unk> 。     target: 每个 人 都 对 囚犯 表示同情 。
+translate: 他 住 了 他 的 人生 生活 。     target: 他 大半生 都 住 在 国外 。
+translate: <unk> 的 <unk> 在 那裡 。     target: 自动售货机 在 那边 。
+translate: 我 星期日 打 了 网球 。     target: 我 偶爾打 網球 。
+translate: 我会 给 你 一些 照片 。     target: 我會給 你 們 看些 照片 。
+translate: 我 <unk> <unk> 被 <unk> 了 。     target: 我 從 樹 上 砍 下 了 一根 樹枝 。
+translate: <unk> <unk> <unk> 。     target: 請 隨手 關門 。
+translate: 我 仍然 相信 她 。     target: 我 仍然 爱着 她 。
+translate: <unk> 的 <unk> 是 <unk> 的 。 。     target: 鸚鵡會 模仿 人 的 聲音 。
+translate: 你 明天 下午 忙 吗 ？     target: 明天 下午 你 忙 嗎 ?
+translate: 他 告訴 了 真相 。     target: 他 說 了 實話 。
+translate: 我 必须 <unk> 你 。     target: 我 不 跟 你 要 好 了 。
+translate: 你 啤酒 吗 ？     target: 你 有 任何 淡 啤酒 嗎 ？
+translate: 這個 <unk> 不 不 <unk> 。     target: 這個 案件 可能 不會 在 短 時間 內 就 解決 。
+translate: 汤姆 和 玛丽 <unk> 被 <unk> 被 <unk> 了 。     target: 汤姆 和玛丽 在 长凳 上 交换 了 位置 。
+translate: 这 本书 在 <unk> <unk> 。     target: 这 本书 在 英国 印刷 。
+translate: 我 想 知道 我们 告诉 我 了 。     target: 不 知道 为什么 没有 人 告诉 过 我 。
+translate: 她 <unk> 自己 的 道歉 。     target: 她 大方 地 道歉 。
+translate: 谁 是 谁 ？     target: 那些 数字 是 什么 ？
+translate: 小心 要 <unk> <unk> 。 。     target: 盡量 避免 製 造 任何 更 多 的 麻煩 。
+translate: 汤姆 今天 不必 完成 這個 工作 。     target: 汤姆 不必 今天 就 完成 那 工作 。
+translate: 你 是 日本 学生 吗 ？     target: 你 是 日语 学生 吗 ？
+translate: 我剛 现在 去 了 。     target: 我現 在 得 走 了 。
+translate: 这 是 世界 <unk> <unk> 的 地方 的 地方 。     target: 這裡 是 黑斯廷斯 戰役 發生 的 地方 。
+translate: 书 在 书 上 有 一本 書 吗 ？     target: 這間 圖書館 有 任何 英語 雜誌 嗎 ?
+translate: 这 <unk> 不是 <unk> 。     target: 這拉 鍊 卡卡 的 。
+translate: 汤姆 <unk> 了 。     target: 汤姆 被 欺负 了 。
+translate: 那些 學生 非常 容易 ， 不是 嗎 ？     target: 那个 学生 跑 得 很快 ， 不是 吗 ？
+translate: 我 不想 <unk> 他 的 错误 。     target: 我並 不想 傷害 他 的 感情 。
+translate: 这 本书 是 她 在 哪裡 <unk> <unk> 了 。     target: 這是 她 讀過 最 有趣 的 書 。
+translate: 那 隻 狗 ， <unk> ， <unk> <unk> 了 。     target: 不像 狗 ,   這 隻 鶴 從 來 沒 有 夢 想過 飛翔 。
+translate: 我们 要 怎麼 要 什么 ？     target: 我们 怎么 付钱 ？
+translate: 他 的 <unk> <unk> 我 。     target: 他 的 记忆力 使 我 惊讶 。
+translate: 我 不 知道 任何 <unk> <unk> 。     target: 这 五个 女人 我 一个 都 不 认识 。
+translate: 那 是 存在 。     target: 這 就是 生活 。
+translate: 你 應該 <unk> 他 所 说 的 話 。     target: 你 應該 多 注意 他 說 的 話 。
+translate: 你 為 什麼 生氣 ？     target: 你 为什么 生气 ？
+translate: 所有 的 人 都 <unk> <unk> 。     target: 人 人生 来 平等 。
+translate: 我 不能 相信 汤姆 。     target: 我 跟不上 汤姆 。
+translate: 他 停下 <unk> ， 但 不是 教堂 。     target: 他 很少 ， 如果 有 的 話 ， 去 教堂 。
+translate: 這位 孩子 們 <unk> 了 孩子 。     target: 這位 老人 收容 了 這個 孩子 。
+translate: 這個 男孩 <unk> <unk> 。     target: 男孩 赤裸 着 上身 。
+translate: 她 不 說 日語 。     target: 她 在家 不說 日語 。
+translate: 我 住 在 <unk> <unk> 裡 。     target: 我 留在 希尔顿 宾馆 。
+translate: 他 住 在 他 大學 退休 。     target: 他 靠 寫 作謀生 。
+translate: 我们 应该 继续 <unk> <unk> 。     target: 我们 总 要 遵守 法律 。
+translate: <unk> <unk> <unk> 。     target: 試著 不要 哭 。
+translate: <unk> 已经 <unk> 已经 已经 <unk> <unk> 了 。     target: 已經 花費 了 很多 的 時間 和 精力 。
+translate: <unk> <unk> <unk> 。     target: 湯姆 把 繩子加 在 了 這個 風箏 上 。
+translate: 今天 明天 可以 都 會 <unk> 工作 。     target: 如果 可能 的话 ， 在 明天 前 做好 这个 工作 。
+translate: 你 的 狗 在 我 的 狗 哪裡 ？     target: 这 是 你 的 狗 。 我 的 呢 ？
+translate: 你 在 外面 出去 吗 ？     target: 你 去 外面 吗 ？
+translate: 如果 你 想要 的 ， 你 可以 理解 我 的 车 。     target: 如果 你 喜歡 你 可以 用 我的車 。
+translate: 我 很 喜欢 所有 所有 的 地方 。 。     target: 所有 月份 中 我 最 喜歡 五月 。
+translate: 他 替 我 叫 了 醫院 。     target: 他 帮 我 打 到 一辆 出租车 。
+translate: 放風箏 是 很 <unk> 的 <unk> 。     target: 搭飛機 是 最快 的 旅行 方式 。
+translate: 你 的 信 送 我 做 了 。     target: 你 的 來 信使 我 快樂 。
+translate: <unk> <unk> ， <unk> <unk> 了 。     target: 利率 和 通货膨胀 很 高 。
+translate: 我 從 來 沒 有 <unk> <unk> <unk> <unk> <unk> <unk> 。     target: 在 我 去 荷兰 之前 ， 我 从没 见过 风车 。
+translate: <unk> 你 。     target: 再见 ！
+translate: 這本書 本书 很 好 。     target: 这 本书 小 。
+translate: 人們 有 很多 <unk> <unk> 。     target: 不少 人有 兩輛 汽車 。
+translate: 請 吃 蛋糕 。     target: 请吃 点 蛋糕 。
+translate: 我 希望 你 告訴 我 真相 了 。     target: 但願 你 那 時候 就 告訴 我 真相 。
+translate: 这是 <unk> 。     target: 有 罢工 。
+translate: 我 周日 <unk> 学校 去 上學 。     target: 上周 一 我 没 去 上学 。
+translate: 我们 在 早餐 吃 了 ， <unk> 吃 了 。 。     target: 我们 早饭 的 面包 刚够 吃 。
+translate: 我们 的 眼睛 你 必須 去 <unk> 。 。     target: 我们 的 眼睛 需要 时间 来 适应 黑暗 。
+translate: 我 很 <unk> 。     target: 我 是 個 夜貓子 。
+translate: <unk> <unk> <unk> 。     target: 到 村莊 有條 窄路 。
+translate: 她 <unk> <unk> 了 。     target: 她 再次 弄 壞 了 烤 麵 包機 。
+translate: 我 喜歡 晚上 <unk> 。     target: 我 喜歡 在 夜晚 走路 。
+translate: 這本書 是 世界 上 的 書 。     target: 這本書 是 用 英文 寫 的 。
+translate: 汤姆 <unk> 了 ， 不是 嗎 ？     target: 湯姆得 了 第一名 ， 不是 嗎 ?
+translate: 把 你 的 姓名 和 地址 。     target: 填上 你 的 姓名 和 地址 。
+translate: 你 最好 不要 早 回家 。     target: 你 最好 不要 熬夜 。
+translate: 我會 完成 你 工作 。     target: 我會 把 這個 工作 留給 你 。
+translate: 我 從 沒 有 任何 事情 。     target: 我 從 來 沒 有 想到 這一點 。
+translate: 你 看起来 是 個 很 聪明 的 人 。     target: 你 看起来 像 一个 聪明人 。
+translate: 我現 得 不 去 。     target: 我太忙 了 不能 去 。
+translate: 我 聽 跟 汤姆 <unk> <unk> 了 。     target: 我 聽 說 湯姆 在 課 堂上 打鼾 。
+translate: 他 不是 医生 的 老师 。     target: 他 不是 医生 ， 他 是 教师 。
+translate: 汤姆 不 住 在 <unk> 房间 。     target: 汤姆 进 房间 时 没有 微笑 。
+translate: 我们 <unk> 得 好 了 。     target: 我們 得到 了 一個 很 好 的 價格 買 那個 東西 。
+translate: 他們 在 睡觉 了 。     target: 他們 玩牌 來 殺 時間 。
+translate: 你 吃 这 本书 吗 ？     target: 你 讀過 這本書 嗎 ？
+translate: <unk> 不 高兴 真相 。     target: 战争 不会 使 任何人 幸福 。
+translate: 他 不再 忘 了 出來 。     target: 他 再也 無法 忍受 這種 痛苦 。
+translate: 我 是 我 的 。     target: 现在 我 想 起来 了 。
+translate: 日本 有 日本 <unk> 。     target: 日本 有 许多 地震 。
+translate: 他 讓 我 <unk> <unk> 。     target: 他 让 我 相信 他 是 无辜 的 。
+translate: 我 知道 。     target: 我 知道 那種 感覺 。
+translate: 你 <unk> 你 的 行为 和 <unk> 一样 是 <unk> 的 。     target: 要 想 成功 只 需要 无知 和 自信 。
+translate: 她 笑 了 他 。     target: 她 恨 他 。
+translate: 我 不能 同意 他 的 意見 。     target: 我 不 同意 他 的 看法 。
+translate: 你 已经 吃 完 了 嗎 ？     target: 你 在家 吃 过 了 吗 ？
+translate: 告诉 我 了 。     target: 重新 告訴 我 。
+translate: 他給 了 我 一本 <unk> 。     target: 他 因 我 喝酒 而 訓斥 我 。
+translate: 她 被迫 <unk> 。     target: 她 怕 過馬路 。
+translate: 我们 住 在 <unk> 。     target: 我們 第三 節是 法語 課 。
+translate: 你 最近 看過 她 嗎 ？     target: 你 最近 有 她 的 音訊 嗎 ？
+translate: <unk> <unk> <unk> 。     target: 汤姆 拒绝 提供 详细信息 。
+translate: 要 吧 。     target: 快点 。
+translate: 他 <unk> 於 他 的 <unk> 。     target: 他 和 他 所有 的 同学 相处 融洽 。
+translate: 你 不 能 赶上 火车 。     target: 你 將無法 趕 上火 車 。
+translate: 她 於 <unk> 的 時候 更好 。     target: 她 年 紀夠 大該 懂事 了 。
+translate: 所有 公司 的 都 是 <unk> <unk> 。     target: 所有 美国 人 都 需要 缴税 。
+translate: 這個 椅子 真的 很 舒服 很 好 。     target: 这个 椅子 坐 着 真 舒服 。
+translate: 汤姆 反 <unk> 。     target: 汤姆 服从命令 。
+translate: 老板 <unk> 的 人 都 在 <unk> 他們 <unk> 他 的 名字 。     target: 大多数 美国 人 似乎 不 反对 我 直呼其名 。
+translate: 她 要 去 美國 嗎 ？     target: 她 明年 會去 美國 嗎 ?
+translate: 你 可能 待 到 你 。     target: 你 想要 待 多久 就 待 多久 。
+translate: 她 在 <unk> <unk> <unk> 。     target: 她 很 善于 砍价 。
+translate: 電話 已 <unk> 了 了 。     target: 月亮 已經 出來 了 。
+translate: 我 <unk> 聽 他 聽 到 他 。     target: 我 幾乎 聽 不到 他 的 聲音 。
+translate: 如果 我 知道 我 是否 知道 我 发生 了 。     target: 我 搞 明白 了 会 告诉 你 。
+translate: 他 知道 很多 很多 。     target: 他 知道 很多 外國 事務 。
+translate: 老师 说 那 是 <unk> 的 。     target: 老師 說 地球 是圓 的 。
+translate: 你 <unk> 求助 的 建议 。     target: 你 要 对 结果 负责 。
+translate: 我 想 你 了解 我 。     target: 我 认为 你 了解 我 。
+translate: 大家 都 知道 我 <unk> 。     target: 我 认识 的 每个 人 都 用 谷歌 。
+translate: 昨天 我 昨天 在 這裡 。     target: 我 昨天 到 這裡 的 。
+translate: 我 有 一些 相機 。     target: 我 對 這件 事 百感交集 。
+translate: 我 不 喜歡 <unk> 的 運動 。     target: 我並 沒有花 那麼 多 時間 在 Facebook 上 。
+translate: 这药 <unk> 了 <unk> 。     target: 消防 隊員 很快 就 把 火撲滅 了 。
+translate: 我 沒 有 收到 自己 的 <unk> 。     target: 我 不能 忍著 不 笑 。
+translate: 他 坐在 車站 旁边 。     target: 他 在 下 一站 下車 了 。
+translate: 世界 是 世界 <unk> 危險 的 。 。     target: 腳踏車 雙載 是 危險 的 。
+translate: <unk> <unk> 。     target: 动物 怕 火 。
+translate: 你 在 書 上 多久 上 多久 了 ？     target: 你 一天 照 几次 镜子 ？
+translate: 他 能 回家 回家 嗎 ？     target: 你會 開車 送 我 回家 嗎 ？
+translate: 沒 有 孩子 可以 了解 那个 。 。     target: 即使 是 一個 小孩子 都 能 理解 。
+translate: 我 厌倦 了 。     target: 我 厭倦 了 跳舞 。
+translate: 請 更 說 話 。     target: 请 说 得 更 清楚 些 。
+translate: 我 買 了 <unk> 商店 。     target: 我 在 這家店 買 了 這支手 錶 。
+translate: 汤姆 正在 等 這個 房間 等 你 。     target: 汤姆 在 会议室 等 你 。
+translate: 她 被 哈佛 死 了 。     target: 她 被 哈佛 大學 錄取 了 。
+translate: 你 要 喝點 茶 嗎 ？     target: 你 想 再 要点 茶 吗 ？
+translate: 我們 大概 要 看 我們 的 老師 。     target: 下周 我们 要 去 看望 我们 的 老师 。
+translate: 他 有 一個 兒子 。     target: 他 有 三个 儿子 。
+translate: 他 可能 在 火車 上 火車 。     target: 他 可能 在 下 一班 火車 上 。
+translate: 你 什麼 時候 去 了 什麼 ？     target: 你 什么 时候 去 伦敦 的 ？
+translate: 我 <unk> 在 <unk> 上 發現 了 一个 <unk> 。     target: 我留 着 在 街上 发现 的 20 美元 。
+translate: 你 喜歡 音乐 吗 ？     target: 你 喜欢 音乐 吗 ？
+translate: 我们 睡着 了 。     target: 我们 都 睡着 了 。
+translate: 我 的 腿 和 <unk> 。 。     target: 我 的 手 和 腳 都 腫 了 。
+translate: 汤姆 不 知道 我 他 不 知道 要 游泳 。     target: 汤姆 没有 告诉 我 他 不会 游泳 。
+translate: 他們 <unk> 我 的 新車 。     target: 他们 都 羡慕 我 的 新车 。
+translate: 我 和 我 父亲 一樣 高 。     target: 我 跟 我 父親 一樣 高 。
+translate: 我 不 喜欢 她 。     target: 我 不 喜歡 她 的 臉 。
+translate: 如果 你 說 英语 ， 我 说 英語 嗎 ？     target: 對 不起 。 你會 講英語 嗎 ？
+translate: 你 的 錶 是 什么 ？     target: 你表上 是 几点 ？
+translate: <unk> 是 世界 上 最 <unk> 的 <unk> 。     target: 木星 是 太陽系 中 最大 的 行星 。
+translate: 我会 早上 <unk> 你 <unk> 。     target: 我 明早 八点 来接 你 。
+translate: 你 應該 为 你 的 道歉 。     target: 你 应该 对 邻居 好点 。
+translate: 宝宝 在 聽 在 她 的 女孩 <unk> <unk> 。     target: 孩子 在 母亲 的 怀中 熟睡 。
+translate: 他 輕 生活 ， 但 一個 人 生活 了 。     target: 他太年 輕 了 無法 獨自 生活 。
+translate: 离 这儿 有多远 ？     target: 從 這裡 到 上野 有多遠 ?
+translate: 她 把 她 上 <unk> <unk> 了 。     target: 她 把 她 的 手套 留在 車上 了 。
+translate: 现在 <unk> 它 。     target: 現在 就 做 。
+translate: 我 需要 巧克力 。     target: 我 需要 一張 郵票 。
+translate: 她 可能 都 跟 她 女兒 的 女兒 。     target: 她 可以 为 她 的 女儿 感到 骄傲 。
+translate: 他们 让 我 忘 了 。     target: 他们 迫使 我 出来 。
+translate: 我 父親 有 出國 旅行 。     target: 我 父親 偶爾 出國 。
+translate: 汤姆 昨晚 都 吃 了 。     target: 湯姆 昨晚 沒 吃 晚餐 。
+translate: 我媽媽 <unk> 早上 早起 。     target: 我 妈妈 早上 早起 。
+translate: 我 <unk> 了 <unk> 汤姆 的 老師 。     target: 我 被 那位 老師 嚴厲 斥責 了 。
+translate: 你 是 個 好 ， 不是 嗎 ？     target: 你 是 個 很棒 的 畫家 ， 不是 嗎 ？
+translate: 請 你 <unk> 等 吗 ？     target: 请 您 等 几分钟 好 吗 ？
+translate: 他 喜歡 <unk> 的 <unk> 。     target: 他 喜欢 在 厕所 里 吸烟 。
+translate: 你 做 了 个 工作 的 事 。     target: 你 做 了 一项 完美 的 工作 。
+translate: 为什么 是 他 做 的 。     target: 什么 都 没 按 他 的 路子走 。
+translate: 他 <unk> <unk> 的 <unk> 。     target: 他 有 各种各样 的 书 。
+translate: 汤姆 的 手 时候 ， 但 不是 太 <unk> 。     target: 汤姆 好 ， 但 不够 好 。
+translate: 我 沒 有 。 。     target: 我 没有 疑问 。
+translate: 你 應該 再 戒烟 。     target: 你 應該 努力 去 戒煙 。
+translate: 你 儿子 幾歲 ？     target: 你 兒子 幾歲 ?
+translate: 汤姆 大概 不 能 跟 我们 法语 的 法语 。     target: 湯姆應 該 知道 有 誰 可以 教 我們 法文 。
+translate: 你 很 需要 时间 不要 说 英语 ， 不 不要 说 英語 。     target: 如果 你 不会 说 英语 ， 你 就 很 难 得到 一个 好 的 职位 。
+translate: 我們 在 <unk> 底下 。     target: 我们 在 雾 中 迷了路 。
+translate: 有人 幫助 我 。     target: 有人 呼救 。
+translate: 什麼 不是 什么 ？     target: 为什么 不 ？
+translate: <unk> <unk> <unk> <unk> 。     target: 汽車 油箱 是 滿 的 。
+translate: 我 <unk> <unk> 勝過 美國 。     target: 我 喜歡 柚子 和 橘子 。
+translate: <unk> 你 的 <unk> <unk> <unk> 。     target: 把 你 的 書 和 筆記本 收起 來 。
+translate: 我 以前 <unk> <unk> 。     target: 我 習慣 整夜 工作 。
+translate: 你 用 我 的 <unk> 了 什麼 ?     target: 你 把 我 的 筆怎麼 了 ?
+translate: 這個 <unk> 是 谁 ？     target: 这是 什么 石头 ？
+translate: 我 想 知道 他 为什么 知道 他 做 什么 。     target: 我 真的 很想 知道 他 為 什麼 做 了 像 那樣 的 事 。
+translate: 我 週日 在 去 了 什麼 ？     target: 上周日 你 去 哪儿 了 ？
+translate: 叫 警察 到 這個 盒子 。     target: 問那邊 的 警察 崗哨 。
+translate: 你 學校 打 打 網球 嗎 ？     target: 你 放學後會 去 打 網球 嗎 ？
+translate: <unk> <unk> 他 有 <unk> <unk> 。     target: 他 年紀 越大變 得 越 頑固 。
+translate: 这 不是 <unk> 。     target: 這 不是 西班牙 語 。
+translate: <unk> 在 在 日本 的 <unk> ？     target: 日本 最长 的 隧道 在 哪里 ？
+translate: 你 什麼 时候 开始 学 英语 ？     target: 你们 什么 时候 开始 学 英语 的 ？
+translate: 他 要 很多 <unk> 。     target: 他 的 心臟 病要 發作 了 。
+translate: 我會 <unk> <unk> 你 。     target: 我 為 你 煮 馬 鈴薯 。
+translate: 她 <unk> <unk> 。     target: 她 小心翼翼 地 走 。
+translate: 這個 人 穿 了 她 的 袋子 。     target: 這名 男子 搶 走 了 她 的 包包 。
+translate: 我 期待 見 到 你 前 到 你 。     target: 我 期盼 著下 週見 到 你 。
+translate: 他 吃 更 努力 了 。     target: 他 能 讀 得 很 好 。
+translate: 她 回家 遲到 了 。     target: 她 很 晚 回家 。
+translate: 他 甚至 我 给 我 <unk> 。     target: 他 甚至 骂 我 傻瓜 。
+translate: 你 的 干净 嗎 ？     target: 你 的 手乾淨 嗎 ?
+translate: <unk> 被 <unk> 了 。     target: 红色 不 流行 了 。
+translate: 我 猜 这 是 我 的 想象 。     target: 估计 那 就是 个 笑话 吧 。
+translate: 给 我 這本書 。     target: 把 书 给 我 。
+translate: 问 你 他 帮 我 。     target: 請 你 父親 幫 你 。
+translate: 你 觉得 汤姆 怎么样 ？     target: 你 觉得 汤姆 有 多 大 ？
+translate: <unk> <unk> <unk> 。     target: 把 書 放在 最 上面 的 架子 上 。
+translate: 我 常常 在 河裡 游泳 。     target: 我 常常 在 河裡 游泳 。
+translate: 他 說 我們 說 过 任何人 。     target: 他 試圖 跟 我們 說 法語 。
+translate: <unk> 再 說 它 。     target: 我會 談談 它 。
+translate: 他们 没 聽 她 。     target: 他们 没 听 。
+translate: 我們 喜欢 在 <unk> <unk> <unk> 發現 的 夏天 。     target: 去年 夏天 ， 我们 在 桥 上 看 焰火 看得 很 过瘾 。
+translate: 他 抓 到 他 的 <unk> <unk> 。     target: 他 登廣告 出售 他 的 房子 。
+translate: 新 <unk> <unk> 在 芝加哥 月 。     target: 新 的 分店 下个月 在 芝加哥 开张 。
+translate: 他 娶 了 一個 <unk> 。     target: 他 娶 了 一位 空姐 。
+translate: 她 没有 朋友 。     target: 她 一个 朋友 都 没有 。
+translate: 吃 <unk> 。     target: 狐狸 吃 母鸡 。
+translate: 他 被 <unk> 於 <unk> 於 <unk> 。     target: 他 被 任命 為 駐 英國 大使 。
+translate: 她 很快 就 開始 看過 它 了 。     target: 她 一來 這裡 就 聽 到 了 。
+translate: 你 <unk> 吃 了 了 嗎 ？     target: 你 吃 过 香蕉 派 吗 ？
+translate: 沒有 不 <unk> 的 。     target: 還沒有 任何 評論 。
+translate: 沒 有 <unk> <unk> <unk> 了 。     target: 幾乎 是 櫻花 綻 放 的 時候 了 。
+translate: 你 可以 把 它 <unk> 我 的 <unk> 。     target: 你 可以 在 任何 一家 書店 買 到 它 。
+translate: 我 是从 中国 来 的 。     target: 我 来自 中国 。
+translate: 瑪麗 接受 了 她 。     target: Mary 擁抱 她 的 娃娃 。
+translate: 她 正在 演奏 <unk> <unk> 。     target: 她 正在 讀 一本 園藝 手冊 。
+translate: 我 不 赞成 你 。     target: 沒有 你 我 很 悲傷 。
+translate: 我 得 沒 有 做 的 事 。     target: 我 没有 其他 更好 的 事情 去 做 。
+translate: 我们 的 <unk> ， ， 你 必須 去 <unk> 。     target: 要 这么 做 ， 你 需要 冒险 。
+translate: 我 正在 找 這個 房間 。     target: 我 在 找 一間 出租 的 房間 。
+translate: 他 的 错 太 太 <unk> 了 。     target: 他 最大 的 缺点 就是 话 太 多 。
+translate: 请 在 <unk> <unk> 。     target: 请 在 15 分钟 内 准备 好 。
+translate: 你 最好 回家 。     target: 你 隨時 可以 回家 。
+translate: 你 搭 <unk> <unk> 了 吗 ？     target: 你 曾 經爬過 阿蘇山 嗎 ？
+translate: 京都 可能 有 犯錯 。     target: 京都 不如 大阪 大 。
+translate: 我 认为 你 想 见到 我 。     target: 我 以为 你 想见 我 呢 。
+translate: 她 <unk> 了 一個 孩子 。     target: 她 生下 了 一個 健康 的 嬰兒 。
+translate: 他 的 母親 让 她 做 了 她 的 <unk> 。     target: 他 的 妈妈 坐 了 一整夜 ， 等 她 的 儿子 。
+translate: 我 幾乎 赢 了 。     target: 我 几乎 赢 了 。
+translate: 汤姆 有 兩個 孩子 。     target: Tom 有 兩個 孩子 。
+translate: 你 明天 要 出去 出去 嗎 ？     target: 明天 你 能 準備 好 離開 嗎 ？
+translate: <unk> 不 總 是 信守 那样 <unk> 。     target: 微笑 並不 一定 表示 高興 。
+translate: <unk> <unk> 於 <unk> 食物 的 食物 。     target: 台灣 菜 比 印度 菜 口味淡 。
+translate: 我 <unk> 派 對 吗 ？     target: 我 错过 派对 了 吗 ？
+translate: 你 喜歡 什麼 。     target: 你 喜歡 什麼 就 拿 吧 。
+translate: 她 是 正確 的 答案 。     target: 她 的 確是 正確 的 。
+translate: 每年 很 難 <unk> 。     target: 試著 藉由 慢跑 來 減肥 。
+translate: 我 拒绝 汤姆 和 玛丽 的 <unk> 。     target: 我羨慕 Tom   和 Mary   之間 的 友誼 。
+translate: 有 我們 年轻 的 時候 ,   你 就 結婚 了 。     target: 您 睡觉 的 时候 ， 一个 女人 来看 过 我们 。
+translate: 我 <unk> <unk> <unk> 。     target: 我 沒 有 刀子 可用 來切 。
+translate: 这 是 我 像 一个 孩子 的 时候 ， 但 我 和 一个 孩子 。     target: 那 跟當 我 是 個 孩子 時 所 聽 到 的 是 同樣 的 故事 。
+translate: 如果 明天 明天 ， 我们 就 会 去 那裡 。     target: 如果 明天 下雨 ， 我们 就 坐车去 那儿 。
+translate: 请 给 我 <unk> 。     target: 請祝 我 好運 。
+translate: 我 很 高興 <unk> <unk> 。     target: 我 很 驚訝 竟然 看到 了 獅子 。
+translate: 为什么 我们 没有 那么 <unk> 的 ， <unk> 和 <unk> 和 <unk> <unk> ？     target: 为什么 我们 不 停止 为 细枝末节 的 争吵 而 进入 正题 呢 ？
+translate: 你 有 旅行 嗎 ？     target: 你 有 多余 的 钥匙 吗 ？
+translate: 这 是 个 <unk> 。     target: 真是 物美 價廉 。
+translate: 跟 你 喜歡 的 <unk> 的 ， 你 很 <unk> 。     target: 很少 能 见到 像 你 那么 好 的 人 。
+translate: 让 我們 明天 <unk> 这个 。 。     target: 我们 来 讨论 下 明天 吧 。
+translate: 他 向 我 他 的 房子 。     target: 他 邀请 我 去 他家 。
+translate: 他 在 他 的 <unk> 了 他 的 叔叔 。     target: 他 在 他 舅舅 那 裏 過夜 。
+translate: 我 对 這位 <unk> <unk> 。 。     target: 飛機 起飛 的 時候 我 很 緊張 。
+translate: 我 昨天 很 忙 。     target: 我 此刻 正忙 著 做 飯 。
+translate: 他 <unk> <unk> <unk> ， <unk> <unk> <unk> <unk> 的 <unk> 。     target: 他 匿名 向 红十字 捐 了 大笔 钱 。
+translate: 我 跑 得 走 。     target: 我 走上 山 了 。
+translate: <unk> 你 最好 就 <unk> <unk> 吧 。     target: 以防 下雨 你 最好 带 把 伞 。
+translate: 我们 不必 选择 。     target: 我们 没有 别的 选择 。
+translate: 他 的 <unk> <unk> 了 <unk> 。     target: 他 往 他 自己 身上 潑 了 一盆 冷水 。
+translate: 我 的 房子 在 車站 附近 。     target: 我家 离 火车站 很近 。
+translate: 我 想 学习 英语 ， 但 我 可以 讀 看 電影 。     target: 我 真的 應該 學英語 ,   但是 我 想 看 電影 。
+translate: 汤姆 今天 应该 在 這裡 。     target: Tom 今天 不該 在 這 。
+translate: 我 不想 <unk> 里 的 <unk> 。     target: 我 不想 被 牵扯 到 这件 事里 。
+translate: 我 <unk> 日本 。     target: 我 在 壓力 之下 工作 表現 最好 。
+translate: 英語 英語 很 難 。     target: 英語 很 難學 。
+translate: 我 對 我 的 自行车 是 我 的 自行车 。     target: 我 让 我哥 修理 我 的 自行车 。
+translate: 告诉 汤姆 我 <unk> 帮助 我 。     target: 告诉 汤姆 我 不 需要 他 的 帮助 ！
+translate: 請 打開 。     target: 請 開門 。
+translate: 說 是 那么 好 說 話 。     target: 看起来 全都 太 奇怪 了 。
+translate: 你 想 知道 吗 ？     target: 你 想 知道 嗎 ？
+translate: 我 爸爸 <unk> <unk> 。     target: 我媽媽 討厭 寫信 。
+translate: 如果 你 会 让 你 的 女朋友 们 就 会 說 真相 的 。     target: 如果 你 女朋友 发现 真相 的话 ， 你 会 有 麻烦 的 。
+translate: 不要 忘 了 房間 。     target: 别 离开 房间 。
+translate: 我 不 看到 她 了 。     target: 我 不會 再 見 她 。
+translate: 我 不 知道 該 做 的 事 。     target: 我 不 知道 要 穿 什麼 。
+translate: 她 <unk> 她 的 衣服 。     target: 她 的 衣服 全部都是 她 自己 做 的 。
+translate: 我 该 買 他 买 什麼 吗 ？     target: 我 應該 買些 東西給 他 嗎 ？
+translate: <unk> 開始 開始 開始 開始 <unk> 。     target: 和平 會談將 在 下 週開始 。
+translate: 你 今天 忙 嗎 ？     target: 你 今天 忙 吗 ？
+translate: 我 在 我 上 見 了 他 回家 。     target: 我 在 回家 的 路上 遇到 了 他 。
+translate: 汤姆 为 我们 <unk> 。     target: 汤姆 欠 我们 个情 。
+translate: 我 父親 不 喜欢 足球 。     target: 我 爸爸 不 喜欢 足球 。
+translate: 山坡 上 有 一间 小屋 。     target: 山坡 上 有 一间 村屋 。
+translate: 太陽 還年 <unk> 了 。     target: 年轻人 应该 尊敬 老人 。
+translate: 我用 他 回家 的 时候 ， 我 回家 回家 。     target: 當我 回家 時 ， 我遇 見 了 他 。
+translate: 如果 你 有 任何 話 ， 你 有 <unk> 的 东西 。     target: 除非 你 有 什么 值得 说 的话 要说 ， 否则 就别 吭声 。
+translate: 他 可能 会 遲到 。     target: 他 可能 又 遲到 了 。
+translate: 他 的 嗜好 是 <unk> <unk> 。     target: 他 的 爱好 是 画 有 花 的 图 。
+translate: 她 非常 听 她 父親 為榮 。     target: 她 為 她 的 父親 感到 非常 驕傲 。
+translate: 我 不能 忍受 這個 噪音 。     target: 我 不能 忍受 這個 噪音 。
+translate: 每个 人 都 跟 Tom 看 了 汤姆 。     target: 每個 人 看到 Tom 都 很 驚訝 。
+translate: 她 被 <unk> <unk> 。     target: 她 對 被 稱 為 懦夫 很 反感 。
+translate: 我要 去 去 他 <unk> 。     target: 下禮 拜 我 要 去 拜訪 她 一下 。
+translate: 我们 等 吧 。     target: 让 我们 回家吧 。
+translate: 我 的 住 在 我 的 <unk> 。     target: 史密斯 夫婦 住 在 我家 附近 。
+translate: 汤姆 不想 做 你 。     target: 汤姆 不 打算 给 你 做 任何 事 。
+translate: 你 說 流利 的 英語 。     target: 你 英语 说 得 很 流利 。
+translate: 無知 <unk> 。     target: 轻轻地 移动 。
+translate: 我们 幾乎 喜歡 兄弟 。     target: 我們 幾乎 像 兄弟 一樣 。
+translate: <unk> 英語 很 多 。     target: 學習 英語 很 辛苦 。
+translate: 这个 城市 被 洪水 <unk> 了 。     target: 這個 城市 毀 於 火災 。
+translate: 我 在 <unk> <unk> 東京 。     target: 我 住 在 東 京郊 區 。
+translate: 你 怎麼 知道 玛丽 什么 ？     target: 你 怎麼 認識瑪麗 的 ？
+translate: 我 沒 <unk> 我 的 <unk> 。     target: 我 還沒有 下定 決心 。
+translate: 他 用 英文 寫 了 一本 書 。     target: 他讀 了 一本 用 英文 寫 的 書 。
+translate: 這個 <unk> 有 很多 <unk> 。     target: 港口 內有 許多船 。
+translate: 我 喜歡 网球 。     target: 我 喜歡 運動 。
+translate: 这 是 <unk> <unk> 好 的 <unk> 。     target: 这是 搭帐篷 的 好 地方 。
+translate: 她 的 房子 正在 成 <unk> 。     target: 她家 在 一座 山 的 山脚下 。
+translate: 我 不 喜欢 我 。     target: 我 不 喜歡 電影 。
+translate: 我 <unk> 了 我 的 <unk> 。     target: 我 把 襪子 穿破 了 。
+translate: 他 以前 睡 在 睡觉 。     target: 他 以前 都 在 夜晚 看書 。
+translate: 他 工作 很 努力 。     target: 他 工作 很 努力 。
+translate: 玛丽 <unk> 我 说 ， 但 我 相信 她 相信 她 。     target: 玛丽 说 她 爱 我 ， 但是 我 并 不 相信 她 所说 的话 。
+translate: <unk> 是 的 ， 我 不 <unk> 。     target: 简而言之 ， 我 不 同意 。
+translate: 你 犯 了 犯 了 相同 的 錯誤 。     target: 你 犯 了 跟 上次 相同 的 錯誤 。
+translate: 我們 <unk> <unk> 了 錯誤 。     target: 我們 的 隊伍 輸 了 所有 的 比賽 。
+translate: 可能 可能 不 可能 是 真的 。     target: 這 可能 是 真的 ， 也 可能 不是 。
+translate: 他們 问 了 他們 的 儿子 叫 汤姆 。     target: 他们 给 他们 的 儿子 取名 叫 汤姆 。
+translate: 他 打 了 他 的 功課 。     target: 他 忙 於 做功 課 。
+translate: 我 父亲 正在 <unk> <unk> 。     target: 我 爸爸 明年 春天 就要 退休 了 。
+translate: <unk> 我 的 手 。     target: 和 我 握手 。
+translate: 他 不 <unk> 我 。     target: 他 不會 聽 我 的 。
+translate: 你 能 把 它 <unk> 嗎 ？     target: 你 能 准时 做好 吗 ？
+translate: 我 聽 見 他 走 了 。     target: 我 聽 到 他 出去 了 。
+translate: 没有 人 失望 。     target: 没人 问过 。
+translate: 这儿 附近 有 动物园 嗎 ？     target: 這 附近 有 超市 嗎 ？
+translate: 他 告訴 我们 了 謊 。     target: 他 對 我們 說 了 一個 謊 。
+translate: 他 <unk> 了 那个 男人 。     target: 他 殺 死 了 那個 人 。
+translate: 你 看過 过 她 嗎 ？     target: 你 以前 見過 她 嗎 ？
+translate: 這個 <unk> <unk> 了 <unk> 的 <unk> 。     target: 這條 小路 沿著 陡峭 的 斜坡 蜿蜒 而 上 。
+translate: 他 的 父母 听 了 他 感到 <unk> 。     target: 他 父母 对 他 期望 过高 。
+translate: 我們 在 <unk> 。     target: 我们 在 藏 着 。
+translate: 汤姆 <unk> 参加 音樂會 。     target: 汤姆 为 去 音乐会 而 激动 。
+translate: 帮助 是 你 幫助 他 的 幫助 。     target: 你求 他 帮忙 没有 用 。
+translate: 他 沒 有 <unk> 的 話 。     target: 他 是非不分 。
+translate: 這裡 以前 有 很多 <unk> 。     target: 这里 以前 有个 商店 。
+translate: 我们 <unk> 时间 。 。     target: 我们 没有 足够 的 时间 了 。
+translate: 讓 我們 開始 吧 。     target: 讓 我們 開始 吧 。
+translate: 不要 有 水 和 食物 <unk> 食物 。     target: 别 担心 。 我们 有 大量 水 和 食物 。
+translate: 有人 是 他 在 这里 。     target: 有人 刚才 在 这里 。
+translate: 我 <unk> 发生 <unk> 发生 <unk> 。     target: 我 希望 那會 發生 。
+translate: 我 不 喜歡 他 的 <unk> 。     target: 我 不 喜歡 他 講話 的 樣子 。
+translate: 我 希望 汤姆 完成 玛丽 完成 。     target: 我 希望 汤姆 让 玛丽 完成 。
+translate: 我 厌倦 吃快餐 了 。     target: 我 受够 吃快餐 了 。
+translate: 每個 人 都 在 笑 。     target: 除 我 以外 每個 人 都 在 歌唱 。
+translate: 我 睡 了 一次 <unk> 。     target: 我 看书 的 时候 睡着 了 。
+translate: 我 認識 那个 女孩 。     target: 我 認識 那些 女孩 。
+translate: 他 週日 週日 在家 。     target: 他 很少 週日待 在家 裡 。
+translate: 她 我 知道 我 去 哪裡 。     target: 她 問了 我 要 去 哪裡 。
+translate: 汤姆 不 喜欢 寿司 。     target: 湯姆 不 喜歡 乳酪 。
+translate: 我 <unk> 那裡 会 <unk> 。     target: 我 預料 會 有 麻煩 。
+translate: 我 的 房間裡 是 他 的 。     target: 我 的 房間 是 他 的 兩倍 大 。
+translate: <unk> 沒有 水 。     target: 魚離 開水 就 無法 生存 。
+translate: 你 讓 你 等 了 。     target: 嘿 ， 你 ！ 請 稍候 。
+translate: 我 吃 完 了 我 的 吃 飯 。     target: 我 穿著 我 的 睡衣 吃 早餐 。
+translate: 汤姆 去 <unk> 法語 。     target: 汤姆 去 那里 学法语 。
+translate: 我们 问题 没有 人 都 有 人 。     target: 我们 的 问题 和 她 的 比 起来 不算什么 。
+translate: 我 曾 见 过 你 嗎 ？     target: 我 以前 沒見過 你 嗎 ？
+translate: 那个 音乐 不 很 容易 。     target: 这 音乐 值得 听 许多次 。
+translate: 我 是 義 大利 。     target: 我 是 義 大利 人 。
+translate: 那 是 一個 <unk> 的 <unk> 。     target: 这 是 很 严重 的 病 。
+translate: 所有 的 人 是 我 做 了 。     target: 这 对 我 来说 全是 新 的 。
+translate: 汤姆 不 <unk> <unk> 他 的 忠告 。     target: Tom 没有 花费 精力 去 打扮 自己 。
+translate: 今天 早上 很 冷 。     target: 昨天早上 很 冷 。
+translate: <unk> 的 首都 是 <unk> 。     target: 波蘭 的 首都 是 華沙 。
+translate: <unk> 喝 一些 柳橙汁 。     target: Tom 喝 了 些 果汁 。
+translate: 這場 房子 突然 下雨 了 。     target: 那 房子 因为 其 少有 的 形状 被 突显 出来 。
+translate: 他 比 我 矮 。     target: 他 比 我 大三 歲 。
+translate: 我 觉得 这 可能 可能 可能 发生 。     target: 我 早 有 一種 感覺 這 可能 會 發生 。
+translate: 他 用 英語 學習 。     target: 他 主修 英國 文學 。
+translate: 我 在 <unk> <unk> 出生 。     target: 我 在 1945 年 出生 於 廣島 。
+translate: Tom 有 預訂 。 。     target: 汤姆 有 预约 。
+translate: 有 一個 大 的 人 。     target: 多 美好 的 家庭 啊 ！
+translate: 他们 <unk> 了 汤姆 。     target: 他們 恨 湯姆 。
+translate: 想 可以 你 。     target: 你 想 走 的 时候 就 走 吧 。
+translate: 今晚 今晚 要 吃 怎麼樣 ？     target: 今晚 出去 吃 怎么样 ？
+translate: 你 是 個 <unk> 。     target: 你 就是 胆小鬼 。
+translate: 瑪麗 幫 她 做 照片 。     target: 瑪麗幫 她 媽媽 做 飯
+translate: <unk> <unk> <unk> 。     target: 有 一阵 从 北边 吹来 的 冷风 。
+translate: 我 完成 了 我 的 作業 。     target: 我 已經 完成 我 的 作業 。
+translate: 沒有 水 。     target: 沒有 水 。
+translate: 你 不 寫 见 他 嗎 ？     target: 你 沒 寫 信給 他 嗎 ？
+translate: 我们 在 天花板 上 了 我們 。     target: 我們 在 我們 的 花園 裡種 蔬菜 。
+translate: 公司 <unk> 了 会议 。     target: 公司 取消 了 会议 。
+translate: 我 猜 那 可能 是 你 的 。     target: 我 猜 那 應該 可以 的 。
+translate: 我 是 無辜 的 。     target: 我 是 清白 的 。
+translate: 我能 跟 你 说话 嗎 ？     target: 我 可以 和 你講 一下 話 嗎 ?
+translate: 你 能 把 <unk> <unk> 好 嗎 ？     target: 請 你 讓 門開 著 好 嗎 ?
+translate: 你 认为 这 穿 做 了 什麼 ？     target: 你 觉得 这件 毛衣 怎么样 ？
+translate: 汤姆 给 玛丽 喝 了 果汁 。     target: Tom 幫 Mary 買 了點 果汁 。
+translate: <unk> 是 在 <unk> 上 <unk> 。 。     target: 据说 这个 区域 埋着 财宝 。
+translate: <unk> 快 了 。     target: 物價 上 漲 。
+translate: 我 <unk> 他 <unk> 了 他 。     target: 我 依稀 記得 見過 他 。
+translate: 他 常常 睡 晚上 起床 。     target: 他 經常 在 晚上 熬夜 。
+translate: 你 的 妻子 只是 見 了 你 了 。     target: 你 太太 在 生 你 的 氣 。
+translate: 這些 事 不 是 我 的 。     target: 这些 东西 不是 我 的 ！
+translate: 他 的 辦 錶 是 我 的 。 。     target: 他 的 辦 公室 跟 我 的 非常 近 。
+translate: 我 喜欢 看 棒球 。     target: 我 喜歡 去 看 棒球 。
+translate: 汤姆 把 <unk> 把 <unk> 把 <unk> <unk> <unk> <unk> 。     target: 汤姆 拿 起 罐子 读 标签 。
+translate: 你 不 相信 汤姆 ， 是 嗎 ？     target: 你 不 信任 汤姆 ， 对 吗 ？
+translate: 玛丽 常常 通常 <unk> 。     target: 玛丽 通常 不戴 首饰 。
+translate: 我 的 英语 是 我 的 英語 。     target: 我 就是 这么 学会 英语 的 。
+translate: 你 可以 說 你 想 想 什麼 。     target: 你 可以 說 你 想 說 的 話 。
+translate: <unk> 了 吗 ？     target: 还有 多余 的 盐 吗 ？
+translate: 你 <unk> 地 <unk> 美元 。     target: 你 每次 都 继续 犯 同样 的 错误 。
+translate: 汤姆 在 <unk> 上 <unk> 了 。     target: 汤姆 一年 内 增加 了 一倍 的 投资 。
+translate: 昨晚 你 昨晚 开始 了 ？     target: 你 昨天 甚麼 時候 睡覺 ？
+translate: 这 <unk> 不 和 她 说话 了 。     target: 這件 襯衫 跟 那條 領帶 不 搭 。
+translate: 我 没 说 話 。     target: 我 没什么 可说 的 。
+translate: 他 從 來 去 了 <unk> 。     target: 有人 看見 他 上樓 。
+translate: 這個 大衣 <unk> 了 <unk> 。     target: 蜿蜒 的 小路 爬 上 了 陡坡 。
+translate: 我會 游泳 。     target: 我會 游泳 。
+translate: 那 是 太好了 。     target: 那 真是 太好了 。
+translate: 汤姆 法语 法语 很 好 。     target: 汤姆 的 发育 已经 很 好 了 。
+translate: 什么 时候 开始 ?     target: 電影 什麼 時候 開始 ？
+translate: 所有 每個 人 都 住 在 <unk> 。     target: 班上 每個 人 都 爬 上 了 這個 山坡 。
+translate: 我 不能 再 再 忍受 這個 噪音 了 。     target: 我 无法 再 忍受 那 噪音 了 。
+translate: 我 无法 相信 它 ！     target: 我 没法 相信 ！
+translate: 这里 在 這裡 。     target: 这个 湖在 这个 地方 很深 。
+translate: 一個 男人 在 <unk> 中 被 <unk> 了 。     target: 一个 男 的 突然 出现 在 门口 。
+translate: 罗马不是 的 <unk> 有 很多 。     target: 罗马 有 很多 古建筑 。
+translate: 他们 都 是 孩子 的 。     target: 他们 都 是 天 真的 孩子 。
+translate: 我會 說 話 。     target: 我会 说 一点儿 。
+translate: <unk> <unk> 。     target: 紅綠燈 變成 綠色 了 。
+translate: 公司 被 <unk> <unk> <unk> 。 。     target: 观众 深受感动 。
+translate: 我 不 看到 他 的 忠告 。     target: 我 没 发现 任何 我该 道歉 的 理由 。
+translate: 你 能 帮 我 吗 ？     target: 可以 原谅 我 吗 ？
+translate: 她 必须 让 我 一樣 生氣 。     target: 她 一定 在 生 我 的 氣 。
+translate: <unk> 是 <unk> 的 。     target: 阿拉伯语 要 从 右往 左读 。
+translate: 他 被 他 的 时候 從 他 的 父母 结婚 了 。     target: 当 他 听到 那个 新闻 的 时候 ， 他 感动 得 哭 了 。
+translate: 我 想 你 去 我 ， 我 我 就 可以 我 <unk> 吗 ？     target: 我 想 你 。 我 需要 见 你 。 我能 来 吗 ？
+translate: 要 很 有趣 的 <unk> 。     target: 開車 很 好玩 。
+translate: 她 听说 了 你 。     target: 她 唱 得 比 他 好 。
+translate: 英語 不是 <unk> <unk> 。     target: 要 精通 英語 是 不 容易 的 。
+translate: 你 什麼 時候 开始 待 了 什么 ？     target: 你 什麼 時候 開始 打 高爾夫球 ？
+translate: 當我 聽 到 他 的 消息 ， 我 想 哭 。     target: 当 我 听到 这个 消息 时 ， 我 想 哭 。
+translate: 我 想 <unk> <unk> 的 <unk> <unk> 。     target: 我 想 特别强调 这 一点 。
+translate: 昨晚 我 做 了 一個 好 。     target: 昨晚 我作 了 一個 可怕 的 夢 。
+translate: 如果 你 有 說 說 ， 我 就 说 。 。     target: 如果 你 想 说 ， 就 说 。
+translate: 我 想 在 晚上 一起 。     target: 我 想 待 一夜 。
+translate: 公园 里 有 很多 人 。     target: 公园 里 有 很多 人 。
+translate: <unk> ， 我 <unk> 哭 。     target: 突然 ， 我 听到 了 一声 喊叫 。
+translate: 我 是 <unk> 俱乐部 的 <unk> 。     target: 我 參加 帆船 社 。
+translate: 他 的 手 <unk> ， 他 <unk> 了 。     target: 據 報紙 上 說 ， 他 自殺 了 。
+translate: 我 哥哥 现在 在 澳洲 。     target: 我 哥哥 現在 在 澳洲 。
+translate: 我 受不了 他 。     target: 我 受不了 他 。
+translate: 我 为 他 的 <unk> <unk> 。     target: 我 向 他 的 妹妹 借 了 這個 漫畫 。
+translate: <unk> 她 在 歐洲 。     target: 我 陪 她 散步 。
+translate: <unk> 吧 <unk> 怎么样 ？     target: 雨会 下 多久 ？
+translate: 他 無法 打断 着 <unk> 。     target: 他 無法 深呼吸 。
+translate: 我 有 一個 兄弟 和 一個 姐妹 。     target: 我 有 一个 兄弟 和 两个 姐妹 。
+translate: 他 在 在 倫敦 <unk> 。     target: 他現 在 在 倫敦 洽公 。
+translate: 我 不能 同意 你 你 的 看法 。     target: 我 非常 同意 你 。
+translate: 有人 叫 了 。     target: 有人 打電話 來 。
+translate: 他 <unk> 去 公園 。     target: 他 開車 去 辦 公室 。
+translate: 没有 问题 。     target: 毫无疑问 。
+translate: 我 的 车 在 <unk> 。     target: 我 的 車在 店裡 修理 中 。
+translate: 只有 的 <unk> 有 国家 有 <unk> 。     target: 这场 暴风雪 已经 对 经济 造成 了 很 严重 的 影响 。
+translate: 你 最 有趣 的 朋友 是 誰 ？     target: 你 最 有趣 的 朋友 是 誰 ？
+translate: 這個 <unk> 沒 有 任何 意义 。     target: 这 没有 任何 意义 。
+translate: 我們 去年 去 了 倫敦 。     target: 我们 去年 去 了 伦敦 。
+translate: 我們 <unk> 吃 多少 ？     target: 你 每天 睡 几个 小时 ？
+translate: 今天 早上 很 冷 。     target: 今天 早上 很 冷 。
+translate: 你 的 叔叔 住 在 哪裡 ？     target: 你 叔叔 住 在 什麼 地方 ？
+translate: 他給 我 買 了 一個 個 礼物 。     target: 他 送给 我 一份 漂亮 的 礼物 。
+translate: 我 一整天 都 有空 。     target: 我 整个 下午 都 在 花园里 。
+translate: 他 的 <unk> 是 <unk> <unk> 的 <unk> 之一 。     target: 他 刷新 了 百米 短跑 的 世界 紀錄 。
+translate: 沒 知道 。     target: 沒 有人 知道 。
+translate: 我们 在 <unk> 上 在 車站 。     target: 我們 會 在 下 一站 換火車 。
+translate: 我會 開車 。     target: 我会 开车 。
+translate: 我 很 計劃 他 的 生活 。     target: 我 在 他 的 公司 裡覺 得 很 舒服 。
+translate: 英语 <unk> 比 日本 更 容易 。 。     target: 說 英語 的 人 比 說 任何 其他 語言 的 人 多 。
+translate: 如果 我 知道 它 ， 你 说 了 ， 你 说 了 。     target: 如果 我 知道 的话 ， 我 早就 已经 告诉 你 了 。
+translate: 讓 我們 去 野餐 了 。     target: 讓 我們 去 野餐 。
+translate: 你 為 汤姆 说 了 什么 ？     target: 你 要 对 汤姆 说些 什么 ？
+translate: 他 承认 了 他 的 女兒 。     target: 他 被 他 的 邻居们 愚弄 了 。
+translate: <unk> <unk> 。     target: 語 言表 達 思想 。
+translate: 昨天 <unk> <unk> 了 下来 。     target: 前天 發生 了 火災 。
+translate: 你 的 喜欢 在 朋友 和 朋友 好 吗 ？     target: 你 最 喜歡 和 朋友 玩什麼 遊戲 ？
+translate: 这个 囚犯 <unk> <unk> ， <unk> <unk> 了 。     target: 那個 囚犯 在 牢裡 待 了 兩個 月 。
+translate: 你 能 给 我 <unk> 嗎 ？     target: 你 能 寄 宣傳冊給 我 嗎 ？
+translate: 請 <unk> <unk> 。     target: 請安靜 地 關門 。
+translate: 我父 <unk> 在 月 。     target: 我 父親 上個 月 開始 慢跑 。
+translate: 我 从没 沒 有 <unk> 。     target: 我 從 來 沒 有 去 過廣島 。
+translate: 汤姆 还 成名 ， 但 他 以前 確定 。     target: 汤姆 还是 喝 ， 但 不 像 以前 那么 多 了 。
+translate: 他 坐在 玛丽 和玛丽 和 汤姆 。     target: 他 坐在 瑪麗 和 湯姆之間 。
+translate: 我们 应该 接受 他 的 忠告 。     target: 我們 應該 接受 他 的 忠告 的 。
+translate: 汤姆 <unk> <unk> 了 <unk> 。     target: 汤姆 亲 了 玛丽 脸颊 。
+translate: 她 在 <unk> 。     target: 她 在 上 廁所 。
+translate: 這些 <unk> 很漂亮 。     target: 這些畫 很 美 。
+translate: <unk> <unk> 了 。     target: 疼痛 消失 了 。
+translate: 我 不 愛我 和 我 一样 高 。     target: 我 不 像 你 想 的 那么 傻 。
+translate: 你 的 <unk> ， 不是 嗎 ？     target: 你 有 一雙 可愛的 眼睛 ， 不是 嗎 ?
+translate: 我 想 把 你 的 位子 <unk> 。     target: 我想 付帳 ， 謝謝 。
+translate: 他 似乎 說 我們 说话 。     target: 他試 著 跟 我們 講法語 。
+translate: 我 明天 要 見 你 。     target: 我 明天 會來 看 你 。
+translate: 你 最好 不要 <unk> <unk> 。     target: 你 最好 小心 不要 吃 過量 。
+translate: 警方 把 你 <unk> <unk> <unk> 。     target: 警察 會 把 你 關在 牢裡 。
+translate: 夏天 很 冷 。     target: 非常感谢 ！
+translate: <unk> 你 的 主意 。     target: 把 你 的 想法 表達 清楚 。
+translate: 父亲 在 隔壁 的 男孩 常常 很 晚 起床 。     target: 隔壁 的 男孩 常常 晚 回家 。
+translate: 这 是 我 的 。     target: 我 請客 。
+translate: 不要 哭 。     target: 别 再念 了 。
+translate: 猫 <unk> 我 <unk> 。     target: 我 对 这个 单词 不 熟 。
+translate: 能 把 帳單給 我 好 嗎 ？     target: 請給 我 一 張路線 圖 。
+translate: <unk> <unk> 成为 了 <unk> 。     target: 总统 很 难接近 。
+translate: 晚餐 吃 晚餐 什么 ？     target: 晚餐 吃魚 怎麼樣 ?
+translate: 你 可以 選擇 你 喜歡 的 書 。     target: 你 可以 選擇 任何 你 喜歡 的 書 。
+translate: 你 说 法语 嗎 ？     target: 你會 講法語 嗎 ？
+translate: 不要 <unk> 他 的 工作 。     target: 别 掺和 他 的 事 。
+translate: 我頭 <unk> 厲害 。     target: 我 得 了 重感冒 。
+translate: 你 相信 他 有 存在 吗 ？     target: 你 相信 有 鬼魂 吗 ？
+translate: <unk> 的 牛奶 都 比 較 的 <unk> 。     target: 為 打翻 的 牛奶 而 哭泣 是 沒用 的 。
+translate: 但願 我 是 个 好 的 歌手 。     target: 但願 我 是 一個 好 歌手 。
+translate: 日本 们 做 了 耐心 。     target: 日本 人有 黑色 的 眼睛 。
+translate: 她 的 <unk> 是 <unk> 。     target: 她 的 皮膚 光滑 。
+translate: 這張 桌子 是 孩子 的 <unk> 。     target: 這張 書桌 是 專門 為 兒童 設計 的 。
+translate: 能 為 你 的 弟弟 嗎 ？     target: 你 弟弟 會 開車 嗎 ？
+translate: 你 应该 把 你 的 孩子 们 <unk> 孩子 的 好 。     target: 你 应该 给 你 的 孩子 们 树立 好榜样 。
+translate: 她 每天 地 出生 。     target: 她 每天 挣 30 美元 。
+translate: 我 不想 忍受 任何 機會 。     target: 我 不想 再 听到 其他 借口 了 。
+translate: 我 常常 <unk> <unk> 。     target: 我 常常 感冒 。
+translate: <unk> 把 它 把 它 放在 哪里 。 。     target: 不要 忘記 你 放在 哪裡 。
+translate: 他們 正忙 <unk> <unk> <unk> 。 。     target: 他们 忙于 社会 改革 。
+translate: 我 <unk> <unk> 。     target: 我 几乎 不能 工作 了 。
+translate: 她 買 了 一本 書 。     target: 她 弄 丟了 一本 書 。
+translate: <unk> <unk> <unk> <unk> <unk> <unk> 。     target: 探险家 们 在 洞穴 里 发现 了 骸骨 。
+translate: 這份 工作 报酬 <unk> 了 。     target: 那個 工作 幾乎 被 完成 了 。
+translate: 我們 <unk> 吃 了 <unk> 的 時間 了 。     target: 我們 接到 許多來 自國外 的 電話 。
+translate: 火车 什么 时候 开始 出发 ？     target: 下 一班 火車 什麼 時候 開 ？
+translate: <unk> 了 我 <unk> <unk> 。     target: 他 悄悄地 递给 我 一张 纸条 。
+translate: 我 可以 喜歡 茶 。     target: 我 喜歡 茶勝過 咖啡 。
+translate: 我 可以 看看 你 看看 嗎 ？     target: 我 可以 看看 你 的 護照 嗎 ？
+translate: 他 每天 學習 英語 嗎 ？     target: 他 每天 研讀 英語 嗎 ？
+translate: 在 這裡 的 時候 我 就 會 見 見 。 。     target: 這裡 真的 很 暗 ， 我什麼 都 看不到 。
+translate: 你 什么 时候 开始 什么 ？     target: 你 什么 时候 开始 工作 ?
+translate: 汤姆 是 我 想要 的 。     target: 汤姆 是 我 想要 的 人 。
+translate: 我 不 習慣 这样 的 食物 。     target: 我 不 習慣 辛辣 的 食物 。
+translate: 他 十分 月 什么 ？     target: 他 一個 月 花費 多少 ？
+translate: 汤姆 在 花园里 里 。     target: 汤姆 在 花园里 站 着 。
+translate: 完美 ！     target: 乾杯 !
+translate: 我 昨天 沒 吃 什么 。 我 已經 吃 了 。     target: 我 從 昨天 起 沒 有 吃 任何 東西 。
+translate: 你 给 了 我 五十 <unk> 。     target: 你 只給 了 我 五十 美分 。
+translate: 我 發現 了 一整天 很 好 。     target: 我覺 得 這張 床 相當 地舒適 。
+translate: 我 的 <unk> 是 谁 ？     target: 我 的 责任 是 什么 ？
+translate: 开车 可以 <unk> 很長 的 時間 嗎 ？     target: 要 很長 的 時間 才能 恢 復 嗎 ？
+translate: 她 似乎 是 我 的 兄弟 為榮 。     target: 她 似乎 喜歡 上 了 我 哥哥 。
+translate: 世界 的 <unk> 很 令人 <unk> 。     target: 整个 世界 都 需要 和平 。
+translate: <unk> 了 ， <unk> 嗎 ？     target: Spot 也 去 了 嗎 ？
+translate: 他 有 很 簡單 的 法语 。     target: 她 很 懂法 語 。
+translate: 你 叫 什么 名字 ？     target: 你 叫 什么 名字 ？
+translate: 讓 我們 開始 <unk> 。     target: 讓 我們 放學後打 籃球 。
+translate: 你 不 應該 告诉 他 她 的 事 。     target: 你 不 應該 告訴 他 任何 關於 她 的 事 。
+translate: 我 總 是 去 學校 。     target: 我 總 是 走路 到 學校 。
+translate: <unk> <unk> 是 <unk> 啤酒 。     target: 淡 啤酒 是 一種 酒精 含量 低 的 啤酒 。
+translate: 你 经常 出國 吗 ？     target: 你 经常 出国 吗 ？
+translate: 該 該 更 多 的 <unk> 。     target: 应该 更 谨慎 地 处理 它 。
+translate: “ 你 回来 嗎 ? ”   " 是 嗎 ? "   " 是 。 ”     target: “ 等 他 回来 ， 我要 让 他 给 你 打电话 吗 ？ ” “ 是 的 ， 谢谢 。 ”
+translate: 我們 飛機 去 搭 紐約 了 。     target: 我們 去年 秋天 搬到 了 紐約 。
+translate: <unk> 看 起來 很 漂亮 。     target: 新娘 看起 來 非常 漂亮 。
+translate: 我 常常 打 網球 打 網球 。     target: 我 常常 在 放學後打 網球 。
+translate: 你 覺得 什么 ？     target: 你 認為 如何 ?
+translate: 我 沒 有 說 那个 故事 。     target: 我 還沒有 聽過 那個 故事 。
+translate: 他 害怕 散步 。     target: 他 出去 散步 。
+translate: 我 需要 <unk> 。 。     target: 我 需要 作筆記 。
+translate: <unk> ， 我 可以 想 去 世界 。     target: 如果 可能 的话 ， 我 想 环游世界 。
+translate: 你 想要 什么 ？     target: 你 想要 什麼 ?
+translate: 你 叔叔 是 什么 ？     target: 你 姑姑 是 做 什麼 的 ？
+translate: 她 <unk> 得 很 好 。     target: 她 日语 说 的 很 好 。
+translate: 她 给 我 帶 我 。     target: 她 给 我 沏 了 茶 。
+translate: 他 有 一個 好人 。     target: 他 收入 可观 。
+translate: 汤姆 问 我 你 。     target: 汤姆 向 我 问起 你 。
+translate: 别 哭 了 。     target: 别哭 。
+translate: 她 的 母親 去年 死 了 。     target: 她 的 母親 去年 去世 了 。
+translate: 他 去 散步 。     target: 他 正在 散步 。
+translate: 停止 <unk> 了 。     target: 别 再 埋怨 了 。
+translate: 這是 我 唯一 的 書 。     target: 这 是 我 仅 有 的 一 本书 。
+translate: 你 曾 <unk> 了 吗 ？     target: 你 被 抢劫 过 吗 ？
+translate: 她 现在 忙 ， 不能 跟 你 说话 。     target: 她現 在 忙 ， 沒有 辦法 跟 您 說 話 。
+translate: 我 的 朋友 明天 <unk> 了 。     target: 一個 朋友 明天 要 過來 。
+translate: 你 在 正確 的 軌道 上 了 。     target: 你 的 想法 是 對 的 。
+translate: 他 接受 <unk> 。     target: 他 戴 眼鏡 。
+translate: <unk> 对 的 <unk> ， <unk> 被 <unk> 了 。     target: 唯一 能 听到 的 声音 是 钟 的 滴答声 。
+translate: 除了 他 的 时候 ， 他 从 <unk> 完成 了 他 的 <unk> 。     target: 当 他 咆哮 时 ， 他 脖子 上 青筋 暴起 。
+translate: 如果 <unk> 年 死 了 ,   但 是 他 什么 时候 ， <unk> 他 什么 时候 来 了 ？     target: 如果 一个 人有 11 只羊 ， 除了 9 只 之外 ， 其他 全部 死 了 ， 那么 他 还 剩下 几只羊 呢 ？
+translate: 我们 今晚 让 他 今晚 的 问题 。     target: 今晚 我們 肯定 會 接到 他 的 電話 。
+translate: 我们 想 知道 事实 。     target: 我们 想 知道 真相 。
+translate: 我 不 喜欢 在 公眾 場合 唱歌 。     target: 我 不 喜歡 在 公共 場合 唱歌 。
+translate: 我 想 看看 醫生 。     target: 我要 看病 。
+translate: 你 應該 把 它 做 它 。     target: 您 本應 該 看看 它 的 。
+translate: 他 結婚 了 。     target: 他 和 一个 女演员 结婚 了 。
+translate: 那 是 我 妹妹 的 字典 。     target: 那 是 我 妹妹 的 照片 。
+translate: 颱 <unk> 了 。     target: 系统 运行 起来 了 。
+translate: 他 比 你 比 你 高 。     target: 他 比 你 高得 多 。
+translate: 跟 我 說 話 。 。     target: 听 而且 听 仔细 。
+translate: 你 很快 就 來 來 的 ？     target: 你 怎么 回来 得 这么 快 ？
+translate: 那 是 你 ， ， 不是 嗎 ？     target: 那 就是 你 ， 不是 么 ？
+translate: 谁 告诉 你 這個 消息 了 ？     target: 誰 告訴 了 你 這個 消息 ？
+translate: 她 做 了 一個 <unk> 的 工作 。     target: 她 把 工作 弄 得 一團 糟 。
+translate: 我 已 <unk> <unk> 到 那裡 。     target: 我 已經 被 警告 過 不要 去 那裡 。
+translate: 我 只是 看 好 你 。     target: 我 只是 看看 ,   謝謝 你 。
+translate: 我 總 是 跟 他 相處 。     target: 我 跟 他 總 是 相處 得 很 好 。
+translate: 我 父親 买 了 新 。     target: 我 的 父親 買 了 一輛 新車 。
+translate: 你 认为 你 能 再 <unk> 噪音 嗎 ？     target: 你 觉得 你 能少 发点 噪音 吗 ？
+translate: 如果 汤姆 不 知道 他 什么 时候 让 我 知道 。     target: 如果 汤姆 没有 做 他 应当 做 的 事 ， 请 让 我 知道 。
+translate: 這是 你 的 書 。     target: 這是 你 的 書 。
+translate: 他 盡力 地 利用 了 這個 機會 。     target: 他 善用 了 這個 機會 。
+translate: 它 很 冷 。     target: 非常 冷 。
+translate: 我 甚至 不 知道 <unk> 发生 发生 。     target: 我 从来 没想到 会 发生 那种 事 。
+translate: 我 在 <unk> 上 買 了 。     target: 我 在 百貨 公司 買 了 它 。
+translate: 他 <unk> <unk> 。     target: 他 浑身 是 债 。
+translate: 我 的 母親 是 个 <unk> 。     target: 我 母亲 是 个 酒鬼 。
+translate: 汤姆 抓 到 他 <unk> <unk> 。     target: 汤姆 从 人群 中拥 出来 。
+translate: 总统 被 <unk> 於 <unk> <unk> 。     target: 林肯 在 1860 年 當選為 美國 總統 。
+translate: 这 真是 是 新 的 照片 。     target: 對 一個 科學家 來 說 ， 情緒化 是 不好 的 。
+translate: 你 最 <unk> 的 <unk> 怎么样 ？     target: 你 想 加入 哪一組 ？
+translate: 汤姆 <unk> <unk> 玛丽 做 玛丽 的 <unk> <unk> 。     target: 汤姆 不能 说明 玛丽 遇害 那天 自己 在 哪里 。
+translate: 我 很 高興 再次 見 到 你 。     target: 很 高興 再次 見 到 你 。
+translate: 我们 是 我们 做 的 。     target: 以下 是 我们 怎么 做 的 。
+translate: 他 跑 跑 <unk> 。     target: 他 跑 得 非常 快 。
+translate: 你 说 你 的 名字 是 什麼 ？     target: 你 說 你 叫 什麼 名字 ？
+translate: 我 不 知道 他 的 理由 。     target: 我 不 知道 任何 有關 他 過去 的 事 。
+translate: 我 不想 <unk> 天气 。     target: 我 不想 談論 天氣 。
+translate: 我 想 去 <unk> 。     target: 我 想 去 商场 。
+translate: 下 下 下 了 很多 雪 。     target: 去年 冬天 下 了 好多 雪 。
+translate: 你 不 必须 <unk> <unk> 。     target: 你 不 應該 屈服 在 誘惑 之下 。
+translate: 汤姆 不 知道 玛丽 做 了 什么 。     target: 汤姆 不 知道 玛丽 对 它 怎么 想 。
+translate: 你 星期五 <unk> 了 嗎 ？     target: 你 讓 窗戶 開著 嗎 ?
+translate: <unk> 被 <unk> <unk> 了 。     target: 一輛 車齡 八年 的 車子 幾乎 是 毫無價值 的 。
+translate: 我 在 <unk> 的 小 小 <unk> 。     target: 我 在 這個 小鎮 上長 大 的 。
+translate: 你 相信 <unk> 吗 ？     target: 你 相信 神 存在 嗎 ？
+translate: 你 買 <unk> 了 了 嗎 ？     target: 你 买 彩票 了 吗 ？
+translate: 他 的 <unk> 總 是 拍手 。     target: 他 的 衣服 總是 很 臭 。
+translate: 在 這裡 在 波士顿 在 波士顿 发生 。     target: 同樣 的 事 在 這 － 波士 頓 發生 。
+translate: 她 什么 时候 幾點 <unk> 了 吗 ？     target: 她 什麼 時候 打破 了 窗戶 ？
+translate: 他 问 我 ， 我 忙 了 。     target: 他 问 我 是否 很 忙 ？
+translate: 我 的 <unk> 是 <unk> <unk> 。     target: 我家 有四個 人 。
+translate: 你 叫 你 名字 的 名字 ？     target: 你 怎麼 拼 你 的 名字 的 ？
+translate: 我 想 <unk> 英语 。     target: 我要 溫習 一下 我 的 英文 。
+translate: 你 有 多少 很多 人 ？     target: 你 有 多少 支 球拍 ?
+translate: 我 希望 他們 <unk> <unk> 。     target: 我 希望 他們 會 停止 戰鬥 。
+translate: 在 <unk> <unk> 。     target: 保存 在 陰涼 的 地方 。
+translate: 你 何時 是 伦敦 ？     target: 你 什麼 時候 到 倫敦 的 ？
+translate: 你 知道 她 會 講英語 嗎 ？     target: 你 知道 她 是否 會 講英語 嗎 ？
+translate: 我 <unk> <unk> 。     target: 我還 沒 決定 。
+translate: 不要 向 你 的 钱 。     target: 不要 忘记 你 的 钱 。
+translate: 我 <unk> 買 買 了 。     target: 我 在 省钱 买 新车 。
+translate: 在 東京 ,     我 知道 那个 城市 了 。 。     target: 因为 住 过 东京 ， 我 对 这个 城市 非常 了解 。
+translate: 我 不能 做 。     target: 我無法 做到 這一點 。
+translate: <unk> 。     target: 上马 。
+translate: <unk> 的 <unk> 和 <unk> <unk> <unk> 的 <unk> 。     target: 埃菲尔铁塔 和 卢浮宫 在 同 一座 城市 。
+translate: <unk> <unk> 於 <unk> 的 <unk> 。     target: 硫磺 燃燒 著 藍色 的 火焰 。
+translate: 她 在 解決 這個 問題 。     target: 她 在 处理 问题 。
+translate: 有 一个 好 的 人 人 見 到 你 。     target: 门口 有个 男人 想见 你 。
+translate: <unk> <unk> <unk> <unk> <unk> ， <unk> <unk> 了 <unk> 。     target: 第三季 國 民生 產總值 較 上 一季 成長 了 1 ％ 。
+translate: 我 昨天 叫 我 父親 。     target: 昨天 我 帮 了 我 爸爸 。
+translate: 她 被 <unk> 和 她 父亲 。     target: 她 急于 见 她 的 父亲 。
+translate: 請 你 再 说 嗎 ？     target: 你 可以 再 說 一次 嗎 ？
+translate: 我 不 同意 你 。     target: 我 沒 有 你 高 。
+translate: 天气 的 <unk> 是 什么 ？     target: 会议 怎么样 ？
+translate: 他 不 喜欢 我們 。     target: 他 不 喜欢 我们 。
+translate: 湯姆 總 是 在 <unk> 拉 很 <unk> 。     target: 湯姆 總 是 在 玩 電視 遊樂器 。
+translate: 你 对 他 来说 很 惊讶 。     target: 你 相信 他 真是太 愚蠢 了 。
+translate: 我 買 了 <unk> 美元 。     target: 我花 10 美元 买 的 。
+translate: 这个 房子 在 房子 。     target: 這種 飲料 是 免費 招待 的 。
+translate: 来 你 的 时间 。     target: 你 可以 慢慢来 。
+translate: 我 是 <unk> <unk> 。     target: 我 有 一点 困惑 了 。
+translate: 他們 什麼 时候 到 ？     target: 他們 何時 抵達 ?
+translate: <unk> 不 總 是 無禮 的 。     target: 為 了 正當 目的 並非 總是 可以 不擇 手段 .
+translate: 请 给 我 我 的 體重 。     target: 請 把 帳單給 我 。
+translate: 昨天 昨天 <unk> <unk> 了 。     target: 她 昨天 參加 了 入學 考試 。
+translate: 我 在 <unk> 上 寫 了 信 。     target: 我 中午 前寫 完 這 封信 了 。
+translate: 我 没 做 這個 事 。     target: 我 跟 這件 事無關 。
+translate: 那 是 好 主意 的 主意 。     target: 那 是 一個 好 主意 。
+translate: 她 嫁給 了 一個 <unk> 。     target: 她 和 一位 音乐家 结了婚 。
+translate: 我 想 你 让 我 告诉 我 什么 。     target: 我 感觉 你 想 告诉 我 什么 事 。
+translate: 他 <unk> 房子 了 。     target: 他 被 趕出 了 這棟 房子 。
+translate: 我 买 了 一個 <unk> 买 的 商店 。     target: 我 在 上 商店 花 低价 买 了 录像机 。
+translate: 这 是 <unk> <unk> 的 。     target: 那 是 一见钟情 。
+translate: 我 可以 看看 你 看 这 本书 。     target: 我 看 你 擅长 做 这事 。
+translate: <unk> 在 <unk> <unk> 。     target: 浅间 山 现在 是 寂静 的 。
+translate: <unk> 是 日本 ， 日本 <unk> <unk> 的 。     target: 总体 上 说 ， 日本 的 气候 温和 。
+translate: 他 <unk> 我 。     target: 他 向 我 施压 。
+translate: 我 叔叔 去年 前 做 了 <unk> 新 <unk> 。     target: 舅舅 的 公司 上个月 推出 了 一项 新 产品 。
+translate: 你 在 你 的 隱形 眼鏡 了 嗎 ？     target: 你 找到 你 的 隱形 眼鏡 了 嗎 ？
+translate: 我 父親 帮 我 做 我 的 家庭 作業 。     target: 我 爸爸 幫 我 做作 業 。
+translate: 大家 都 <unk> 她 赢 。     target: 每個 人 都 希望 她 會 獲勝 。
+translate: 我 知道 汤姆 。     target: 我 认识 汤姆 。
+translate: 我 喜歡 冬天 勝過 冬天 。     target: 我 喜歡 夏天 勝於 冬天 。
+translate: 你 必須 把 我 一起 來 。     target: 你 必須 跟 我 來 。
+translate: <unk> <unk> <unk> 。     target: 骄傲 是 失败 的 先行者 。
+translate: 我 等到 <unk> 。     target: 我會 等到 四點 。
+translate: 我 跑 得 得 很 愿意 和 她 分手 。     target: 我 尽快 跑 以 赶上 她 。
+translate: 让 你 <unk> 在 在 波士顿 。     target: 让 我们 谈谈 你 在 波士顿 做 的 事 。
+translate: 一切 都 是 自己 的 。     target: 一切 都 變成 了 黑色 。
+translate: 让 我們 走 了 。     target: 讓 他們 決定 。
+translate: 他 設法 <unk> <unk> <unk> <unk> 。     target: 他 設法 使 收支平衡 。
+translate: 我 可以 去 搭 郵票 嗎 ？     target: 我 可以 有 張公車 的 時刻表 嗎 ？
+translate: 我 想 你 能 在 把 <unk> 放在 <unk> 上 的 <unk> 。     target: 我 想 你 迟早会 知道 在 桌面 建立 一个 快捷方式 是 有 多 方便 。
+translate: 他 問過 一場 星期 。     target: 他 下禮 拜 要 考試 。
+translate: <unk> 在 <unk> <unk> 在 <unk> 的 <unk> 。     target: 华盛顿 的 樱花 现在 开放 。
+translate: 这 是 在 <unk> 的 <unk> 了 。     target: 這裡 是 我們 結婚 的 教堂 。
+translate: 你 可以 帶 我 我 可以 想要 你 的 。 。     target: 你 喜欢 什么 时候 打 给 我 就 什么 时候 打 。
+translate: 这 非常 有趣 。     target: 它 很 好玩 。
+translate: 孩子 上 早上 去 學校 。     target: 孩子 们 早上 去 学校 。
+translate: 你 完成 了 嗎 ？     target: 你 结束 了 吗 ？
+translate: 我 父亲 在 花园里 。     target: 我 爸爸 在 花园里 。
+translate: <unk> <unk> <unk> 了 。     target: 有足夠 的 光線 讀書 。
+translate: 我 去 法語 。     target: 我將 主修 法文 。
+translate: 我 是 游泳 社的 成員 。     target: 我 是 游泳 俱樂部 的 會員 。
+translate: 我 没 <unk> <unk> <unk> 工作 工作 。     target: 我 还 没 确定 找 哪份 工作 。
+translate: 没有 不 可能 可能 的 。     target: 絕對 不 可能 這樣 做 的 。
+translate: <unk> 更好 的 。 。     target: 嘗試 在 下 一次 做 得 更好 。
+translate: 讓 我 一起 來 。     target: 请 跟我来 。
+translate: 他 <unk> <unk> <unk> 。     target: 他 有 資格 當選 總統 。
+translate: <unk> 是 认真 的 问题 。     target: 酒驾 是 个 严重 的 问题 。
+translate: 我 今天 在 東京 。     target: 我 今天 在 東京 。
+translate: 他 是 <unk> 的 。     target: 他 是 第一 個 來 的 。
+translate: 我 知道 我 的 意思 了 。     target: 我 知道 我 听见 了 什么 。
+translate: <unk> <unk> 在 哪裡 ？     target: 到 市區 的 公車 站牌 在 哪裡 ？
+translate: 他 <unk> 他 没有 不 知道 。     target: 他 回答 说 他 不 知道 。
+translate: 沒有 消息 ， 沒 有人 。     target: 没 消息 就是 好消息 。
+translate: 她 比 我們 比 耐心 。     target: 他們 比 我們 高得 多 。
+translate: 没关系 。     target: 醒醒 吧 。
+translate: 我 的 嗜好 是 <unk> 。     target: 我 的 嗜好 是 集郵 。
+translate: 它 是 <unk> 的 <unk> 。     target: 它 的 大小 就 像 雞 蛋 。
+translate: 不要 <unk> 了 。     target: 别 再 傻 看着 。
+translate: 你 的 工作 是 多少 ？     target: 你 的 工作 進行 得 怎麼樣 ？
+translate: 我 非常 惊讶 。     target: 我 觉得 很 孤独 。
+translate: 他会 住 在 筱山 嗎 ？     target: 你 明年 會住 在 筱山 嗎 ？
+translate: 我们 在 日本 前 住 在 日本 。     target: 到 明年 我们 学 英语 就 有 5 年 了 。
+translate: <unk> 是 个 <unk> 的 <unk> 。     target: 互联网 是 一种 无法估量 的 信息 资源 。
+translate: 他 是 個 <unk> 的 <unk> 。     target: 他 是 一位 著名 的 作曲家 。
+translate: 每个 人 都 知道 這個 <unk> ， 但 没有 重要 的 。     target: 每 一个 人 都 应该 知法 懂法 ， 但是 真正 能 做到 的 人 却 很少 。
+translate: 我 想要 看 看 這本書 。     target: 我 想 看 这部 电影 。
+translate: 學生 还 了 。     target: 学生 们 回来 了 。
+translate: 汤姆 没有 不 <unk> 。     target: 汤姆 不 傻 。
+translate: 他 害怕 比 他 <unk> <unk> 。     target: 他 害怕 你會 開槍 打 他 。
+translate: 我們 经常 跟 你 唱歌 唱歌 。     target: 我们 经常 听到 你 唱歌 。
+translate: <unk> 就 <unk> 比 <unk> 年 。     target: 一般 來 說 ,   男人 比 女人 跑得快 。
+translate: 你 的 提議 <unk> 得 <unk> 。     target: 你 的 行为 离 要求 的 太远 了 。
+translate: 請 <unk> <unk> <unk> <unk> 。     target: 请 为 这位 女士 叫辆 出租车 。
+translate: <unk> 我 的 <unk> 買 <unk> 。     target: 有 一天 我 买 了 一台 棉花 糖机 。
+translate: 他 有 <unk> <unk> 的 <unk> 。     target: 他 有 非凡 的 音樂 天份 。
+translate: 我 不 相信 他 太 多 。     target: 我 不再 相信 他 了 。
+translate: 這個 男孩 在 街 對面 。     target: 一个男孩 正 沿着 街 走 。
+translate: 她 是 个 好人 。     target: 她 是 一个 著名 的 歌手 。
+translate: 他 的 小说 說 很 有趣 。     target: 他 的 新 小 說 值得 一讀 。
+translate: 你 必须 应该 讀書 。     target: 您 必须 预先 付钱 。
+translate: 我 厌倦 了 看电视 。     target: 我 看 電視 看到 厭煩 了 。
+translate: 公平 了 。     target: 来 感受一下 这个 。
+translate: 你 得 有 <unk> 。     target: 你 必须 得 自信 。
+translate: 英語 是 英語 的 英語 說 英語 。     target: 英語 是 一種 全世界 通用 的 語言 。
+translate: 我 很 抱歉 ， 但 我 沒 有 。 。     target: 我 很 抱歉 ,   但 它 就是 不 可能 的 。
+translate: 你 的 腳踏車 在 哪裡 ？     target: 您 在 哪儿 看电视 ？
+translate: 我會 回来 。     target: 我会 回来 的 。
+translate: 汤姆 能游 得 很 休假 。     target: 湯姆 游泳 可以 游得 跟 你 一樣 快 。
+translate: 我们 不 认为 它 是 认真 的 。     target: 我们 认为 这 不 严肃 。
+translate: 我媽媽 為 我 做 了 一套 。     target: 我媽 媽留 了 口信 給我 。
+translate: 你 的 时间 在 <unk> 了 。     target: 你 的 时间 快用 完 了 。
+translate: 他 <unk> 了 喝茶 。     target: 他 喝 太 多 啤酒 。
+translate: 我 今天 早上 <unk> 我 的 公園 。     target: 我 每天 早上 到 公园 里 遛狗 。
+translate: 它 什么 时候 开始 ？     target: 什么 时候 开始 ？
+translate: 我 <unk> 我 的 <unk> <unk> 我 的 <unk> 。     target: 那 是 在 我 到 家 以后 ， 我 才 不见 了 我 的 钱包 。
+translate: 一個 <unk> 和 <unk> 被 <unk> 了 。     target: 許多 老百姓 加入 了 軍隊 。
+translate: 他 问 了 ， 我 <unk> 巧克力 。     target: 他問 我 是否 喜歡 中國菜 。
+translate: 我們 休息 了 <unk> 。     target: 我們 在 樹蔭下 休息 。
+translate: 我们 在 <unk> <unk> 很多 。     target: 六月 下 了 很多 天 的 雨 。
+translate: 湯姆 想 <unk> 钱 。     target: 汤姆 想 去 还 欠 的 钱 。
+translate: 他 非常 喜歡 <unk> 。     target: 他 喜欢 冒险 。
+translate: 有时候 ， 我 仍然 相信 她 。     target: 有 時候 ， 我 還是 會 想起 她 。
+translate: 我们 就 要 去 我们 和 我们 。     target: 我们 走 ， 尽可能 多 看点 东西 。
+translate: 他 非常 勇敢 。     target: 他 说 得 很 大声 。
+translate: 是 ， 我 知道 的 。     target: 是 的 ， 我 知道 。
+translate: 他們 讓 我們 <unk> 了 <unk> 。     target: 他們 要 我們 整夜 工作 。
+translate: 他 <unk> 。 也 不 同意 。     target: 他 不 因 貧窮 而 感到 羞愧 。
+translate: 任何 你 所 做 的 一切 你 。     target: 你 做 任何 事 都 要 尽全力 。
+translate: 有 什麼 事 吗 ？     target: 有 任何 事情 改變 了 嗎 ？
+translate: 我用 <unk> 買 了 一本 書 。     target: 我花 了 五元 買 這本書 。
+translate: 他 的 房子 还 没 <unk> 。 。     target: 他家 离 这间 商店 不远 。
+translate: 你 可以 用 英文 寫 寫 嗎 ？     target: 你會用 英語 寫 一封信 嗎 ？
+translate: 這個 公司 <unk> 在 <unk> <unk> <unk> 。     target: 这家 公司 在 巴黎 证券 交易所 上市 了 。
+translate: 当 他 知道 他 的 时候 ， 他 <unk> 她 了 。     target: 如果 他 知道 她 的 电话 ， 他会 打 给 她 。
+translate: <unk> 。     target: 接 一下 电话 。
+translate: 你 你 等 吗 ？     target: 麻煩 您 稍 待 一下 。
+translate: <unk> 我们 ， 我们 迟到 了 。     target: 因为 你 我们 才 迟 了 。
+translate: 我們 已经 <unk> 了 。     target: 我們 才 剛搬 進來 。
+translate: 這裡 <unk> 很多 一天 。     target: 这个 钟 每天 慢 三分钟 。
+translate: 她 認為 他 是 <unk> <unk> 的 。     target: 她 認為 他 是 在 浪費電 。
+translate: 你 寫 了 嗎 ？     target: 你 在 寫 什麼 ？
+translate: 我 想 在 洗澡 。     target: 我現 在 想 洗澡 。
+translate: 你 想 再 <unk> 吗 ？     target: 你 想 再 来 杯酒 吗 ？
+translate: 我 幫 我 母親 的 母親 。     target: 我 在 廚房裡 幫媽媽 。
+translate: 這件 大衣 <unk> 你 。     target: 這件 大衣 十分 適合 你 。
+translate: 这 <unk> 很 好 。     target: 這茶 味道 不錯 。
+translate: 这 是 个 好 的 问题 。     target: 這 只是 時間 的 問題 。
+translate: 你 能 告诉 我 你 了 吗 ？     target: 你 能 稍微 告诉 我 关于 自己 的 事情 吗 ？
+translate: 他 喜歡 <unk> <unk> 。 。     target: 他 喜欢 看 报纸 。
+translate: 我們 为了 <unk> 他 去 了 他 。     target: 我們 讓 他 做 最 後 的 決定 。
+translate: <unk> <unk> 於 <unk> 。     target: 一场 令人难忘 的 事件 发生 了 。
+translate: 他 是 一個 很 <unk> 的 作家 。     target: 他 是 非常 有 想像力 的 作家 。
+translate: 他 昨天 在 東京 了 。     target: 他 昨天 抵達 東京 。
+translate: 在 這裡 你 的 车 在 這裡 。 。     target: 把 車停 在 這裡 是 違法 的 。
+translate: 他 發生 了 什麼 事 ？     target: 他 發生 了 什麼 事 ？
+translate: <unk> <unk> <unk> 。     target: 走 左邊 的 道路 。
+translate: 它 是 <unk> 的 。     target: 这是 全新 的 。
+translate: 我 希望 为什么 她 说 她 说 說 話 。     target: 我 很 想 找出 她 为什么 这么 说 的 原因 。
+translate: 汤姆 需要 <unk> 他 的 <unk> 。     target: 汤姆 需要 更新 他 的 网站 。
+translate: 他 <unk> 一位 一個 女人 。     target: 他 把 自己 化裝成 一個 女人 。
+translate: 她 住 在 一棟 一個 房子 裡 。     target: 她 住 在 一個 很大 的 房子 裡 。
+translate: <unk> 对 我 来说 太大 了 。     target: 這件 T 卹 太小 了 。
+translate: 我 和 你 昨天 遲到 了 。     target: 我 跟 你 一样 昨天 上学 迟到 了 。
+translate: 這個 男人 住 在 <unk> 。     target: 老人 独自 生活 。
+translate: 請 幫 我 买 了 這個 照片 。     target: 请 提醒 我 明天 把 报告 寄 了 。
+translate: 他 前 他 救 了 他 的 妻子 。     target: 上個 月 他 和 妻子 離婚 了 。
+translate: 你 已经 <unk> 了 。     target: 你 被 騙 了 。
+translate: 你 可能 喜欢 音乐 。     target: 你 说话 像 个 当官 的 。
+translate: 今天 比 昨天 的 <unk> 。     target: 今天 比 昨天 暖和 。
+translate: 我 现在 住 在 <unk> <unk> 。     target: 我現 在 在 成田 機場 。
+translate: 你 為 什麼 每天 讀書 呢 ？     target: 为什么 你 每天 都 学习 呢 ？
+translate: 我 记得 她 在 哪裡 。     target: 我 记得 给 她 写过信 。
+translate: 讓 我們 知道 你 是否 来 。     target: 讓 我們 知道 你 什麼 時候 會 到 。
+translate: 我 也 很 抱歉 ， 但 我 沒 在 這裡 。     target: 抱歉 ， 我 不是 本地人 。
+translate: 我 有 吃 啤酒 。     target: 我会 再 喝一杯 啤酒 。
+translate: 你 想 知道 什么 ？     target: 你 想 知道 什麼 ？
+translate: 这里 在 这里 吗 ？     target: 這 附近 有 醫院 嗎 ？
+translate: 只有 這裡 有 很多 英里 。     target: 以前 這裡 有 一座 橋 。
+translate: 她 <unk> 她 是 她 的 玩具 。     target: 她 的 玩具 是 被 她 妹妹 弄 壞 的 。
+translate: 你 必須 <unk> <unk> 。     target: 您 必须 弥补 损失 。
+translate: 這是 汤姆 的 <unk> 。     target: 這是 湯姆 的 雨傘 。
+translate: 我 的 喜歡 <unk> <unk> <unk> 。     target: 我 很 喜歡 在 新 的 高速公路 上 開車 。
+translate: 她 可能 比 你 高 。     target: 她 可能 比 你 高 。
+translate: 我 可以 在 <unk> 窗口 嗎 ？     target: 我 可以 看 一下 酒單 嗎 ？
+translate: 我 愛 你 愛 <unk> 。     target: 我 愛你多 於 你 愛我 。
+translate: 你 的 <unk> 比 較 高 。     target: 你們 的 隊伍 比 我們 的強 。
+translate: 给 看 桌子 底下 。     target: 看看 桌上 的 那 張 相片 。
+translate: 她 穿 了 一件 衣服 。     target: 她 穿 了 一件 白色 的 洋裝 。
+translate: 每个 人 都 <unk> 。     target: 每个 人 都 会 说谎 。
+translate: <unk> 不是 <unk> 的 。     target: 優勝者 不 使用 藥物 。
+translate: 我们 需要 更 多 多 。 。     target: 我们 就 需要 再 多一点 时间 。
+translate: 他 完成 完 了 。     target: 他 打斷 了 我們 的 談話 。
+translate: 我 一整天 都 很 忙 。     target: 我 最近 很 忙 。
+translate: " 他 喜歡 <unk> 嗎 ? "   " 是 。 ”     target: " 他 喜歡 音樂 嗎 ? "   " 是 的 ,   他 喜歡 。 "
+translate: 我们 希望 希望 <unk> 。 。     target: 我們 都 希望 和平 。
+translate: 他 说 中文 了 。     target: 他 也 會 說 俄語 。
+translate: 她 今晚 要 吃 美國 。     target: 她 今晚 離開 去 美國 。
+translate: 我 有 一双 <unk> 。     target: 我 喉嚨 痛 。
+translate: “ 你 想 他 嗎 ? "   " 我 不能 。 ”     target: " 你 認為 他 會 來 嗎 ? "   " 我 希望 不會 。 "
+translate: 他 <unk> 他 父亲 的 父亲 。     target: 他 有点像 他 的 父亲 。
+translate: 輕 的 ， ， 就 <unk> 去 了 。     target: 那么 ， 女孩 们 ， 是 时候 出发 了 。
+translate: 你 去过 法國 吗 ？     target: 你 曾 經去 過法國 嗎 ？
+translate: 你 要 在 這裡 多久 了 ？     target: 你 看 这 看 了 多少 次 ？
+translate: 她 应该 把 她 <unk> <unk> 的 <unk> 。     target: 她 会 把 她 的 照片 给 想要 的 人 。
+translate: 我們 早餐 吃 了 <unk> 。     target: 我们 早餐 做 了 煎饼 。
+translate: 你 觉得 我 做 了 什么 ？     target: 你 觉得 我 在 干吗 呢 ？
+translate: 她 看 了 一個 男人 的 男人 。     target: 她 在 入口 看到 一個 年 輕 男人 。
+translate: 我 企图 解釋 音乐 。     target: 我試 圖改 變話題 。
+translate: 我們 <unk> 很多 。     target: 我们 喝 了 很多 。
+translate: 她 已經 在 巴黎 了 。     target: 她 去过 巴黎 。
+translate: 如果 你 去 去 ， 我 也 會 去 。     target: 無論 你 到 哪裡 ， 我 都 會 跟 著 你 。
+translate: 他 上 上 上 了 他 的 房間 。     target: 他 在 週日 打 掃 他 的 房間 。
+translate: 因為 她 <unk> 就 <unk> 下雨 了 。     target: 她 迷路 了 ， 紧接着 天 开始 下雨 了 。
+translate: 那 不 了解 我 可能 說 的 話 ， 她 不是 真的 。     target: 聽起 來 或 許有 點怪 ， 但 她 說 的 是 真的 。
+translate: 我 去 去 了 倫敦 的 購物 。     target: 上 週六 我 去 購物 。
+translate: 他們 嫉妒 我们 的 成功 。     target: 她们 嫉妒 我们 的 成功 。
+translate: <unk> 可以 <unk> <unk> 。     target: 分秒必争 。
+translate: 她給 了 我 照顾 <unk> 。     target: 她給 了 我 這些 舊 硬幣 。
+translate: 她 比 湯姆 年轻 。     target: 她 年紀 比 湯姆大 。
+translate: <unk> 不 <unk> 。     target: 其他人 不 那么 乐观 。
+translate: 你 知道 他 是 谁 的 ？     target: 你 知道 他 是 誰 嗎 ？
+translate: 你 的 家人 去 多少 ？     target: 你 打算 和 你 的 家人 去 做 什么 ？
+translate: 我 通常 在 十一 點 上床 睡覺 。     target: 我 通常 約 十一 點鐘 上床 睡覺 。
+translate: 如果 我们 现在 會 來 嗎 ？     target: 请问 我们 现在 能 走 吗 ？
+translate: 已经 已经 <unk> 了 了 。     target: 已经 安排 好 了 。
+translate: 我 的 <unk> 可以 <unk> <unk> <unk> 。     target: 我 的 录像机 可以 拍 高清 视频 。
+translate: 你 在 <unk> 我 是 在 做 的 。     target: 你 就是 我 一直 要 找 的 人 。
+translate: <unk> 不是 谁 造成 了 很多 钱 。     target: 大部份 的 保險 計劃 不 包含 整容 手術 。
+translate: 他 比 我 做 得 很 好 。     target: 他 游泳 游得 比 我 好 。
+translate: 我 的 食物 有 <unk> <unk> 。     target: 我 的 車子 很 耗油 。
+translate: 我 讓 他 向 了 他 <unk> 礼物 。     target: 我 邀请 他 去 派对 ， 他 接受 了 。
+translate: 我 總 是 在 冬天 出生 。     target: 我 在 冬季 總是 感冒 。
+translate: 我 有 幫 你 一起 <unk> 。     target: 我 有 一些 照片 給你看 。
+translate: 不要 讓 她 就 走 了 吧 。     target: 天黑 後 不要 讓 她 出門 。
+translate: 這場 比賽 可能 会 <unk> <unk> 了 。     target: 這場 比賽 可能 將被 取消 。
+translate: 请 不 这么 說 。     target: 請 不要 說 得 這麼 快 。
+translate: 你 必須 去 去 。     target: 你 可以 走 了 。
+translate: 你 没 告诉 他 什么 了 吗 ？     target: 你 什么 都 没 跟 他 说 ？
+translate: 汤姆 習慣 早起 。     target: 汤姆 习惯 早起 。
+translate: 你 和 你 的 意見 ， 我 就 走 了 。     target: 你 做 你 的 部份 ,   其他 的 我 來 做 。
+translate: 我们 只是 要 打扫 房間 。     target: 我们 正要 进 房间 。
+translate: 和 你 来说 來 看 我 。     target: 过来 和 我 跳舞 啊 !
+translate: 為 Tom 要 擔心 ？     target: 為 什麼 要 擔心 Tom ？
+translate: 我 寫 了 新 的 地址 的 地址 。     target: 我 在 信封 上 写错 了 地址 。
+translate: 我 不 喜欢 学习 。     target: 我 不 喜欢 鸡蛋 。
+translate: 他 告訴 了 我 <unk> <unk> 。     target: 他 叫 我 对 别人 好 一点 。
+translate: <unk> 你 <unk> 的 <unk> ， 你 <unk> 。     target: 收好 你 的 东西 ， 滚出去 。
+translate: 汤姆 说 玛丽 和玛丽 的 問題 。     target: 汤姆 跟 玛丽 说 了 这 问题 。
+translate: 要 散步 怎麼樣 ？     target: 出去 散步 怎麼樣 ？
+translate: 他 给 了 我們 找到 這個 消息 。     target: 他 给 我们 带来 了 令人 难过 的 消息 。
+translate: 孩子 会 六點 了 。     target: 那 孩子 要六歲 了 。
+translate: 他 是 <unk> <unk> <unk> 。     target: 他 在 医学界 有 很大 的 影响力 。
+translate: 你 相信 鬼魂 吗 ？     target: 你 相信 鬼 存在 吗 ？
+translate: <unk> 是 世界 上 很 容易 。     target: 到 外國 一定 很貴 。
+translate: 我会 幫助 幫助 。 。     target: 我会 需要 帮助 。
+translate: 我們 出去 <unk> 了 ,   但是 我們 就 知道 沒 有人 。     target: 我们 看 了 窗外 ， 但 什么 都 没 看见 。
+translate: 他們 <unk> 我 。     target: 他們 不理 我 。
+translate: 他們 <unk> 了 。 。     target: 我們 推了車 。
+translate: 谁 的 问题 是 谁 ？     target: 誰 解決 了 這個 難題 ？
+translate: 你 有 <unk> <unk> 的 <unk> 吗 ？     target: 你 参加 社团活动 吗 ？
+translate: 她 幫 他 <unk> <unk> 他 的 <unk> 。     target: 她 幫助 他 平撫 了 他 的 悲傷 。
+translate: 他們 住 在 圖書館 。     target: 他們 獨自 在 圖書館裡 。
+translate: 我 抓 到 他 的 行李 偷 了 。 。     target: 我 抓 到 了 這個 男人 正在 偷錢 。
+translate: 他 流利 的 <unk> 了 。     target: 他 能 說 流利 的 中文 。
+translate: 我 猜 那 是 <unk> 很 <unk> 的 。     target: 我 猜 明天 会 是 好 天气 。
+translate: <unk> <unk> <unk> <unk> 。     target: 他们 卖 体育 产品 。
+translate: 她 <unk> 吉他 。     target: 她 可以 把 鋼琴彈 得 很 好 。
+translate: 他們 非常 紧张 。     target: 他们 变得 很 紧张 。
+translate: 你 知道 如何 使用 这个 吗 ？     target: 你 知道 怎么 使用 吗 ？
+translate: 她 看 了 自己 的 孩子 很 好 。     target: 她 对 她 的 孩子 非常 生气 。
+translate: 我 很 <unk> 。     target: 我 被 烦死 了 。
+translate: 汤姆 每天 早上 赢 。     target: 湯姆 明天 早上 離開 神戶 。
+translate: 我們 <unk> 不 <unk> 我们 的 牛奶 。     target: 我們 的 乳牛 沒有給 我們 任何 牛奶 。
+translate: 我 笑 。     target: 听 着 。
+translate: 汤姆 给 玛丽 <unk> 了 玛丽 。     target: 汤姆 给 玛丽 买 了 一束 玫瑰花 。
+translate: <unk> 了 ！     target: 太 惊喜 了 !
+translate: 我 <unk> <unk> 你 。     target: 我會永遠 記住 你 的 。
+translate: 我 很 饿 了 。     target: 我 饿 得 跟 饿虎扑羊 似的 。
+translate: 世界 上 用 <unk> 的 <unk> 。     target: 爱 让 世界 转动 。
+translate: 你 最 喜欢 什麼 ？     target: 你 最 喜歡 哪 一個 科目 ?
+translate: 我 想 吃 蘋果 。     target: 我 想 吃 苹果派 。
+translate: 請 你 把 鹽 遞給 我 好 嗎 ？     target: 請 你 把 鹽 遞給 我 好 嗎 ?
+translate: 我 相信 他们 说 了 什么 。     target: 我 相信 他們 說 的 話 。
+translate: 汤姆 做 了 我 做 的 事 。     target: 汤姆 我 按 我 做 的 办法 做 了 。
+translate: 你 父母 跟 你 父母 嗎 ？     target: 你 和 你 的 父母 同住 嗎 ？
+translate: 不是 你 的 生活 。     target: 人 无法 长生不死 。
+translate: <unk> <unk> <unk> <unk> 。 。     target: 这次 旅行 至少 得花 一 星期 时间 。
+translate: 什麼 時候 开始 开始 ？     target: 演出 什么 时候 开始 ？
+translate: 他們 把 <unk> 救 了 <unk> 。     target: 他們 往小鎮 方向 去 了 。
+translate: 他 應該 更 小心 的 。     target: 他本 應該 更 小心 的 。
+translate: 没有 人 跟 你 说话 。     target: 没有 人要 去 找 你 。
+translate: <unk> 一天 <unk> 。     target: 一天天 热 起来 了 。
+translate: 她 設法 <unk> 。     target: 她 答應 不 單獨 外出 。
+translate: 我 7 7 起床 。     target: 我 7 点 起床 了 。
+translate: “ 你 住 在 哪里 ？ ” “ 我 今天 。 ” “ 明天 去 。 "     target: 你 知道 他们 什么 时候 到 吗 ？   今晚 11 点半 。
+translate: 他们 没有 <unk> 。     target: 他们 不 需要 理由 。
+translate: 我 從 自己 沒 有 <unk> 。     target: 我 從 來 沒 有親 自去過 那裡 。
+translate: 那个 男人 是 <unk> 。     target: 那人 沒 穿衣服 。
+translate: 谁 号 是 谁 ？     target: 这 是 谁 建 的 ？
+translate: 今天 的 <unk> 是 今天 的 <unk> <unk> <unk> 。 。     target: 比萨 是 种 适合 现在 的 生活 方式 的 食物 。
+translate: 他 以前 比 以前 多 。     target: 他 比 以前 重得 多 。
+translate: 你 的 Facebook 怎麼 什麼 ?     target: 您 要 什麼樣 的 蛋 ？
+translate: 我 想 和 一个 <unk> 她 。     target: 我 想 和 一个 像 她 那样 的 女孩 结婚 。
+translate: 他 有 <unk> <unk> 。     target: 他 必須 修理 這個 時鐘 。
+translate: 如果 你 有 问题 ， 我 <unk> 你 的 眼睛 。     target: 如果 有 问题 ， 请 举起 你 的 右手 。
+translate: 他 把 他 儿子 <unk> 了 。     target: 他 的 頭撞 到 了 一塊 岩石 。
+translate: 我 很 抱歉 ， 但 我 不会 不好 。     target: 对不起 ， 我 不能 待 很 久 。
+translate: 現在 没有 一天 都 不 完成 。     target: 在 一天 之内 完成 它 几乎 是 不 可能 的 。
+translate: 我會 把 我 的 相機 派 對 。     target: 我會 帶 我 妹妹 去 派 對 。
+translate: 一条 是 一個 <unk> 的 <unk> 和 她 的 <unk> <unk> 的 <unk> 。     target: 理 髮 師是 為 男人 刮 鬍 子 和 剪 頭 髮 的 人 。
+translate: 汤姆 從 ： ： 回家 回来 。     target: 汤姆 在 2 ： 30 之后 才能 回家 。
+translate: 我 看 汤姆 兩 小時 了 。     target: 我 在 三 小时 前见 过 汤姆 。
+translate: 玛丽 明天 让 我们 失望 。     target: 瑪麗 明天 會幫 我們 。
+translate: 他 非常 穿著 <unk> 的 衣服 。     target: 他 穿着 上 很 不 讲究 。
+translate: 我 的 祖母 <unk> 了 我 的 祖母 。     target: 我 被 我 的 祖母 撫養長 大 。
+translate: <unk> 的 <unk> 吗 ？     target: 钟响 过 了 吗 ？
+translate: 那 是 一本 本书 。     target: 那 是 一本 書 。
+translate: 他 為 什麼 要 做 什么 ？     target: 为什么 他会 做 这样 的 事 呢 ？
+translate: <unk> 多长时间 ？     target: 要花 多久 時間 ？
+translate: 走開 ！     target: 趴下 ！
+translate: 把 你 的 <unk> 。 。     target: 把 你 的 目標 寫 下來 。
+translate: <unk> <unk> <unk> 他 <unk> <unk> <unk> 他 的 <unk> 。     target: 詩人 對 他 愛的 女人 表達 了 他 火熱 的 激情 。
+translate: 他 生气 了 。     target: 他 生气 了 。
+translate: 我 想 去 釣魚 。     target: 我要 去 義 大利 。
+translate: 每個 人 都 他 <unk> <unk> <unk> 。     target: 所有人 除了 汤姆 都 吃 了 比萨 。
+translate: <unk> 他 在 中午 前 他 就 會 來 這裡 。     target: 看来 他会 在 下个月 来 。
+translate: 汤姆 说 这个 俱乐部 的 <unk> 。     target: 汤姆 不再 是 俱乐部 的 成员 了 。
+translate: 他 <unk> 了 ， 她 <unk> <unk> ， 但 她 的 <unk> ， 不是 <unk> 她 <unk> 了 。     target: 他 把 她 攬 在 懷裡 幫助 她 ,   但 她 不能 忍受 。
+translate: 我 相信 我 是 <unk> 。     target: 我 承认 我 大意 了 。
+translate: 我 想 跟 你 叔叔 的 。     target: 我 想 和 你 的 舅舅 谈一谈 。
+translate: 因為 汤姆 住 在 汤姆 的 <unk> 了 。     target: 我 给 汤姆 当 了 三年 助手 。
+translate: 你 和 我 的 意見 高 。     target: 你 的 球拍 跟 我 的 一樣 。
+translate: 我 受不了 她 她 。     target: 我 无法忍受 看着 她 。
+translate: 你 有 <unk> 嗎 ？     target: 您 有 车 吗 ？
+translate: <unk> <unk> 吉他 。     target: 我放學後彈 吉他 。
+translate: 对 所有 的 人 都 像 <unk> ， 人 都 是 可能 在 <unk> 的 。     target: 孤獨 的 人會 孤獨 ， 是 因為 他 畏懼 他人 。
+translate: 他 常常 跟 她 看 看 電影 。     target: 他常 和 她 一起 去 看 电影 。
+translate: 她 急忙 打破 了 窗戶 。     target: 她 故意 把 窗戶 弄 壞 了 。
+translate: 他 害怕 没有 <unk> 。     target: 他 怕 被 嘲笑 。
+translate: 你 想 做 什麼 ?     target: 你 想 做 什麼 ？
+translate: ,   ， 吧 吧 ！     target: 好 吧 ， 讓 我們 出發 吧 !
+translate: 只要 你 的 眼睛 ， <unk> 。     target: 閉上 你 的 眼睛 ， 然後數 到 十 。
+translate: 你 能 帮 我 <unk> <unk> 茶 ， 茶 吗 ？     target: 你 能 告诉 我 红茶 和 绿茶 的 区别 吗 ？
+translate: <unk> 。     target: 上帝 存在 。
+translate: 你 有 什麼 意思 ？     target: 你 有 什麼 症狀 ？
+translate: 我 <unk> <unk> 你 的 <unk> 。     target: 我無法 想像 沒有 你 的 生活 。
+translate: <unk> <unk> 。     target: 我 在 用 Twitter 。
+translate: “ 我 <unk> 了 ， “ 他 说 了 。     target: “ 相信 我 。 ” 他 说 。
+translate: 你 是 <unk> 。     target: 你 是 囚犯 。
+translate: 我 觉得 <unk> 避免 <unk> 。     target: 我 认为 考试 破坏 教育 。
+translate: 他 不 知道 这 <unk> 網球 。     target: 他 不 知道 如何 打高爾夫球 。
+translate: 她 <unk> 了 他 。     target: 她 看不起 他 。
+translate: 我 買 了 一個 <unk> 美元 。     target: 我用 12 美元 买 的 。
+translate: 讓 我 你 <unk> <unk> <unk> 了 <unk> 。     target: 讓 我 再次 提醒 你 3 月 31 日 是 到期日 。
+translate: 你 今晚 要 <unk> 嗎 ？     target: 你 今晚 想 吃 壽司 嗎 ？
+translate: <unk> 我們 的 <unk> 了 。     target: 到 5 号 轨道 乘 随便 什么 火车 。
+translate: 汤姆 说 他 有 玛丽 失去 玛丽 。     target: 汤姆 承认 他 杀死 了 玛丽 。
+translate: 你 什么 時候 不 需要 嗎 ？     target: 你 能 跳 多 高 ？
+translate: 汤姆 對 我 很 有趣 。     target: 汤姆 拿 我 开心 。
+translate: 我 讨厌 讨厌 <unk> 。     target: 我 恨 蚊子 。
+translate: 我 父亲 在 吃 吃 澡 。     target: 我 的 父親 在 晚飯 前 洗澡 。
+translate: 去 <unk> 我 去 去 <unk> ？     target: 我 乘 几路 车去 怀基基 ？
+translate: 我們 在 在 倫敦 上 住 了 。     target: 我們 去年 冬天 在 倫敦 。
+translate: 我 想要 它 要 重要 的 。     target: 我 想 让 这次 变得 不 一样 。
+translate: 他 去 <unk> 学校 。     target: 他 不會 繼續 去 上 研究所 。
+translate: 她 不 <unk> <unk> 。     target: 她 沒 有常到 戶外 。
+translate: 每個 人 都 说 她 说 英语 得 很 好 。     target: 大家 都 知道 她 的 英语 说 得 很 好 。
+translate: 她 的 兩個 <unk> 死 了 。     target: 她 的 孩子 都 死 于 战乱 。
+translate: 你 不能 在 <unk> <unk> <unk> <unk> 。     target: 你 不能 在 沼澤 地上 建造 建築物 。
+translate: 日本 不是 <unk> <unk> 。     target: 日本 並不擁 有 豐富 的 自然 資源 。
+translate: 我 需要 一下 你 的 铅笔 我 可以 的 好 吗 ？     target: 我 需要 一支 铅笔 ， 我能 用 你 的 其中 一支 吗 ？
+translate: 他 <unk> 那裡 。     target: 他 獨自 在 那裡 。
+translate: 最近 的 祖父 <unk> 在 哪裡 ？     target: 最近 的 旅行社 在 哪裡 ？
+translate: 他 弟弟 總 是 在 看 電視 。     target: 他 的 弟弟 總是 在 看 電視 。
+translate: <unk> 不是 <unk> <unk> 的 <unk> 。     target: 科学家 们 还 没有 找到 癌症 的 治疗 方法 。
+translate: 他 <unk> 了 你 的 問題 吗 ？     target: 警察 盘问 你 了 吗 ？
+translate: 这是 什么 呢 ？     target: 什麼 是 不必要 的 ?
+translate: 如果 你 <unk> <unk> <unk> <unk> ？     target: 我 怎么 可能 是 机器人 呢 ？ 机器人 不会 做梦 。
+translate: 我們 的 成功 已經 <unk> 了 <unk> 。     target: 我们 的 花园 布满 了 杂草 。
+translate: 日本 是 <unk> 的 国家 。     target: 日本 是 一個 非常 嘈雜 的 國家 。
+translate: 你 喜歡 正確 的 。     target: 你 說 得 很 對 。
+translate: 我 今天 早上 六點 起床 起床 。     target: 我 今天 早上 六點 起床 。
+translate: 你 为什么 跟 他 多久 ？     target: 您 多久 见 他 一次 ？
+translate: 他們 是 個 <unk> <unk> 。     target: 他們 正在 挖 一個 洞 。
+translate: 我 認識 他 的 他 的 时候 ， 但 是 他 的 名字 。     target: 我 知道 他 的 样子 ， 但 不 知道 他 的 名字 。
+translate: 汤姆 也 不 高兴 。     target: 汤姆 根本 不 高兴 。
+translate: 那麼 好 ， 吧 。     target: 好 吧 ， 我們 走 吧 。
+translate: 你 的 比 你 去 <unk> ,   你 比 你 成功 的 時間 了 。     target: 上大學 的 時候 ， 你 得到 的 比 付出 的 還多 。
+translate: <unk> 是 你 的 <unk> ？     target: 哪顶 帽子 是 你 的 ？
+translate: 汤姆 <unk> <unk> 。     target: Tom   没 办法 在 没有 亮灯 的 时候 入睡 。
+translate: 我 让 <unk> <unk> 了 <unk> 。     target: 我 跟着 鹿 的 踪迹 。
+translate: 他 住 在 伦敦 。     target: 他 住 在 倫敦 市中心 。
+translate: 讓 <unk> <unk> <unk> 。     target: 讓 我們 平分 這個 報酬 吧 。
+translate: 這個 老人 在 5 <unk> 了 了 。     target: 這是 三十 年代 以來 最 乾旱 的 六月 。
+translate: 請 你 把 窗戶 <unk> 嗎 ？     target: 能 不能 请 你 把 窗关 了 ?
+translate: 昨晚 上 我 的 自行 偷 偷 了 。 。     target: 昨晚 我 的 自行车 被 偷 了 。
+translate: 嘿 了 ， 你 就 <unk> 他 <unk> 他 的 工作 。     target: 如果 您 同意 ,   我想給 他 這份 工作 。
+translate: 你 一点 ， 不是 嗎 ？     target: 你 不會來 ， 是 嗎 ？
+translate: 汤姆 向 我们 的 问题 這個 问题 。     target: 汤姆 给 我们 的 问题 想出 了 个 答案 。
+translate: 日本 依賴 可全 <unk> 。     target: 日本 依賴 外國 的 石油 。
+translate: 你 通常 通常 做 什麼 ？     target: 你 週日 通常 做什麼 ?
+translate: <unk> 這本書 <unk> <unk> 。     target: 把 這本書給 想要 的 人 。
+translate: 就 下雨 ,   下午 可能 下雨 。     target: 從 天色 看起 來 ， 下午 可能 會 下雨 。
+translate: <unk> 相信 没有 <unk> 。     target: 現在 沒 有人 相信 有鬼 。
+translate: 他 很快 <unk> 。     target: 他 行动 迅速 。
+translate: 你 为什么 不 告诉 汤姆 结婚 了 ？     target: 你 为什么 不 告诉 汤姆 你 已经 结婚 了 ？
+translate: 她 读完 信 哭 了 。     target: 她 看 完信 了 。
+translate: 开车 可以 下雪 。 。     target: 熊会 爬树 。
+translate: 这 看起来 像 <unk> 。     target: 那 看起来 像 血 。
+translate: 这是 <unk> <unk> 的 <unk> 。     target: 这是 一个 濒临灭绝 的 物种 。
+translate: 他们 是 谁 ？     target: 他們 是 學生 嗎 ？
+translate: 我 明年 睡 了 。     target: 我四點 要 離開 。
+translate: 她 讓 他 <unk> <unk> 。     target: 她 把 他 从 烂泥 中 拽 出来 了 。
+translate: 我 已 <unk> 了 要 了 了 ！     target: 我終 於 擁有 了 一整套 !
+translate: 我 受夠 了 英語 。     target: 我 受够 英文 了 。
+translate: 老師 有点 冷 。     target: 老師 患 了 重感冒 。
+translate: 这 就是 我 出生 的 房子 。     target: 那 房子 是 我 出生 的 地方 。
+translate: 我 應該 讀 這個 小说 的 时候 ， 你 會 來 哪儿 了 。     target: 你 明天 来 的 时候 ， 我 就 看 完 这本 小说 了 。
+translate: 那 不 成功 ， 不是 嗎 ？     target: 那 不难 ， 是 吧 ？
+translate: 你 犯 了 钥匙 嗎 ？     target: 你 故意 犯 那個 錯 的 嗎 ?
+translate: 你 每天 學習 英語 嗎 ？     target: 你 每天 研讀 英語 嗎 ？
+translate: 她 忙 旅行 。     target: 她 正忙 著 準備 這次 旅行 。
+translate: 不要 碰 这个 。     target: 不要 碰 這些 。
+translate: 我们 知道 。     target: 我们 知道 。
+translate: 你 <unk> 成功 。     target: 你 的 成功 是 应得 的 。
+translate: 很 高興 見 你 到 你 。     target: 很 高兴 再 见到 你 。
+translate: 她 有 吃 面包 。     target: 她 有点儿 面包 。
+translate: 你 必須 每天 <unk> 的 錢 。     target: 你 最好 未雨绸缪 。
+translate: 你 比 玛丽 的 <unk> 。     target: 你 比 玛丽 可爱 。
+translate: 我 不 認為 我 的 生活 很 有趣 。     target: 我 不 認為 我 的 人生 很 有趣 。
+translate: 他們 已經 結婚 了 。     target: 他们 结婚 已经 四年 了 。
+translate: 人們 <unk> 接受 這個 消息 。     target: 只有 竹內 沒有 接受 邀請 。
+translate: 你 可以 把 我 的 体重 了 。     target: 你 正在 把 我 杯子 里 的 东西 喝掉 。
+translate: 這些 <unk> <unk> 是 很 高 的 人 。     target: 这 两个 词 容易 混淆 。
+translate: 你 明白 嗎 ？     target: 你 明白 了 嗎 ?
+translate: 我 等 了 她 很長 的 時間 。     target: 我 等 她 好长时间 了 。
+translate: 你 在 在 在 哪儿 ？     target: 你 在 看 谁 ？
+translate: 你 的 错误 很 聪明 。     target: 你 讓 生命 值得 活下去 。
+translate: 委员会 <unk> <unk> 美元 。     target: 胡萝卜 要 三 美元 。
+translate: <unk> 是 力量 。     target: 知识 就是 力量 。
+translate: 她 為 她 去 了 車站 ？     target: 為 什麼 她 去 了 車站 ?
+translate: 她 發現 了 <unk> 歲 的 时候 ， <unk> 了 了 。     target: 她 25 岁 就 结婚 了 。
